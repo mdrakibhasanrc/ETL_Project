@@ -1,0 +1,982 @@
+,Brand_Name,Model_Name,Phone_Colour,Rom,Rating,Rating_Count,Reviews_Count,Price,Pre_price,Battery_Capacity,Display_Size,Processor,Primary_Camera,Rating_Group,Price_Group,Display_Group
+0,POCO,POCO C51 ,Royal Blue,64,4.1,51111,2679,6499,9999,5000.0,6.52,HelioG36,8.0,Good,0-20k,Large
+1,Infinix,Infinix SMART 7 ,Azure Blue,64,4.3,60734,2956,6999,9999,6000.0,6.6,UnisocSpreadtrumSC9863A1,13.0,Good,0-20k,Very Large
+2,POCO,POCO C51 ,Power Black,64,4.1,51111,2679,6499,9999,5000.0,6.52,HelioG36,8.0,Good,0-20k,Large
+3,Infinix,Infinix SMART 7 ,Night Black,128,4.3,60734,2956,7599,10999,6000.0,6.6,UnisocSpreadtrumSC9863A1,13.0,Good,0-20k,Very Large
+4,Infinix,Infinix SMART 7 ,Emerald Green,128,4.3,60734,2956,7599,10999,6000.0,6.6,UnisocSpreadtrumSC9863A1,13.0,Good,0-20k,Very Large
+5,Infinix,Infinix SMART 7 ,Emerald Green,64,4.3,60734,2956,6999,9999,6000.0,6.6,UnisocSpreadtrumSC9863A1,13.0,Good,0-20k,Very Large
+6,vivo,vivo T2x 5G ,Aurora Gold,128,4.4,106046,5899,13999,18999,5000.0,6.58,Dimensity6020,50.0,Good,0-20k,Large
+7,vivo,vivo T2x 5G ,Marine Blue,128,4.4,106046,5899,13999,18999,5000.0,6.58,Dimensity6020,50.0,Good,0-20k,Large
+8,vivo,vivo T2x 5G ,Glimmer Black,128,4.4,106046,5899,13999,18999,5000.0,6.58,Dimensity6020,50.0,Good,0-20k,Large
+9,Infinix,Infinix SMART 7 ,Azure Blue,128,4.3,60734,2956,7599,10999,6000.0,6.6,UnisocSpreadtrumSC9863A1,13.0,Good,0-20k,Very Large
+10,vivo,vivo T2x 5G ,Glimmer Black,128,4.4,58297,3108,12999,17999,5000.0,6.58,Dimensity6020,50.0,Good,0-20k,Large
+11,vivo,vivo T2x 5G ,Aurora Gold,128,4.4,58297,3108,12999,17999,5000.0,6.58,Dimensity6020,50.0,Good,0-20k,Large
+12,POCO,POCO C50 ,Royal Blue,32,4.2,52014,2476,5499,8999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+13,Infinix,Infinix SMART 7 ,Night Black,64,4.3,60734,2956,6999,9999,6000.0,6.6,UnisocSpreadtrumSC9863A1,13.0,Good,0-20k,Very Large
+14,POCO,POCO C55 ,Power Black,128,4.2,35549,2018,8499,13999,5000.0,6.71,MediatekHelioG85,50.0,Good,0-20k,Very Large
+15,POCO,POCO C55 ,Cool Blue,128,4.2,35549,2018,8499,13999,5000.0,6.71,MediatekHelioG85,50.0,Good,0-20k,Very Large
+16,MOTOROLA,MOTOROLA e13 ,Aurora Green,64,4.0,43327,3549,7299,10999,5000.0,6.5,UnisocT606,13.0,Good,0-20k,Large
+17,MOTOROLA,MOTOROLA e13 ,Cosmic Black,64,4.0,43327,3549,7299,10999,5000.0,6.5,UnisocT606,13.0,Good,0-20k,Large
+18,MOTOROLA,MOTOROLA e32 ,Arctic Blue,64,3.9,13859,1121,7999,11999,5000.0,6.5,MediatekHelioG37,50.0,Fair,0-20k,Large
+19,MOTOROLA,MOTOROLA e13 ,Creamy White,64,4.0,43327,3549,7299,10999,5000.0,6.5,UnisocT606,13.0,Good,0-20k,Large
+20,POCO,POCO C55 ,Cool Blue,64,4.2,47983,2817,7499,11999,5000.0,6.71,MediatekHelioG85,50.0,Good,0-20k,Very Large
+21,POCO,POCO C55 ,Forest Green,128,4.2,35549,2018,8499,13999,5000.0,6.71,MediatekHelioG85,50.0,Good,0-20k,Very Large
+22,MOTOROLA,MOTOROLA G32 ,Mineral Gray,128,4.1,44305,3823,11999,18999,3600.0,6.5,QualcommSnapdragon680,50.0,Good,0-20k,Large
+23,POCO,POCO C55 ,Forest Green,64,4.2,47983,2817,7499,11999,5000.0,6.71,MediatekHelioG85,50.0,Good,0-20k,Very Large
+24,Infinix,Infinix HOT 30i ,Marigold,64,4.3,14157,785,8199,9999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+25,Infinix,Infinix HOT 30i ,Marigold,128,4.3,64871,3791,8999,11999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+26,SAMSUNG,SAMSUNG Galaxy F04 ,Opal Green,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+27,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+28,Infinix,Infinix HOT 30i ,Diamond White,128,4.3,64871,3791,8999,11999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+29,Infinix,Infinix HOT 30i ,Diamond White,64,4.3,14157,785,8199,9999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+30,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+31,SAMSUNG,SAMSUNG Galaxy F04 ,Jade Purple,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+32,MOTOROLA,MOTOROLA G62 5G ,Frosted Blue,128,4.1,44065,3867,14999,21999,3600.0,6.55,QualcommSnapdragon6955G,50.0,Good,0-20k,Large
+33,Infinix,Infinix HOT 30i ,Glacier Blue,64,4.3,14157,785,8199,9999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+34,MOTOROLA,MOTOROLA g13 ,Lavender Blue,128,4.0,41678,3814,9999,13999,5000.0,6.5,HelioG85,50.0,Good,0-20k,Large
+35,REDMI,REDMI 11 Prime ,Peppy Purple,64,4.3,5266,260,8999,14999,5000.0,6.58,HelioG99,50.0,Good,0-20k,Large
+36,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+37,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+38,MOTOROLA,MOTOROLA g14 ,Steel Gray,128,4.1,1007,116,9999,12999,5000.0,6.5,T616,50.0,Good,0-20k,Large
+39,POCO,POCO C55 ,Power Black,64,4.2,47983,2817,7499,11999,5000.0,6.71,MediatekHelioG85,50.0,Good,0-20k,Very Large
+40,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+41,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,128,4.1,4902,295,9702,13499,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+42,Infinix,Infinix HOT 30i ,Mirror Black,128,4.3,64871,3791,8999,11999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+43,Infinix,Infinix HOT 30i ,Glacier Blue,128,4.3,64871,3791,8999,11999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+44,Infinix,Infinix HOT 30i ,Mirror Black,64,4.3,14157,785,8199,9999,5000.0,6.6,G37,50.0,Good,0-20k,Very Large
+45,POCO,POCO C50 ,Country Green,32,4.2,52014,2476,5499,8999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+46,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,64,4.1,4902,295,8080,11999,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+47,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+48,Infinix,Infinix Smart 7 HD ,Green Apple,64,4.3,18718,856,6199,7999,5000.0,6.6,,8.0,Good,0-20k,Very Large
+49,POCO,POCO M5 ,Power Black,64,4.1,17670,1498,8499,15999,3600.0,6.58,MediatekHelioG99,50.0,Good,0-20k,Large
+50,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+51,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+52,MOTOROLA,MOTOROLA e32 ,Eco Black,64,3.9,13859,1121,7999,11999,5000.0,6.5,MediatekHelioG37,50.0,Fair,0-20k,Large
+53,MOTOROLA,MOTOROLA G32 ,Satin Silver,128,4.1,44305,3823,11999,18999,3600.0,6.5,QualcommSnapdragon680,50.0,Good,0-20k,Large
+54,REDMI,REDMI A1+ ,Black,32,4.2,9993,412,6299,9999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+55,REDMI,REDMI 12 ,Jade Black,128,4.3,6508,487,9999,14999,5000.0,6.79,HelioG88,50.0,Good,0-20k,Very Large
+56,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+57,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+58,OnePlus,OnePlus Nord CE 2 Lite 5G ,Blue Tide,128,4.4,96489,6706,17832,19999,5000.0,6.59,,64.0,Good,0-20k,Large
+59,realme,realme C53 ,Champion Gold,128,4.1,3704,302,9999,11999,5000.0,6.74,T612,108.0,Good,0-20k,Very Large
+60,Nokia,Nokia 105 TA-1473 SS,Mystic Green,128,4.1,28518,1741,1299,1599,3600.0,1.77,SC6531E,0.0,Good,0-20k,Small
+61,MOTOROLA,MOTOROLA G62 5G ,Midnight Gray,128,4.1,44065,3867,14999,21999,3600.0,6.55,QualcommSnapdragon6955G,50.0,Good,0-20k,Large
+62,Micromax,Micromax J22,Mystic Green,128,3.9,2627,160,1130,1599,1000.0,2.4,,50.0,Fair,0-20k,Small
+63,SAMSUNG,SAMSUNG Galaxy M14 5G ,Smoky Teal,128,4.2,2545,187,15295,18990,6000.0,6.6,,50.0,Good,0-20k,Very Large
+64,Micromax,Micromax J22,Mystic Green,128,3.9,2627,160,1099,1599,1000.0,2.4,,50.0,Fair,0-20k,Small
+65,MOTOROLA,MOTOROLA G62 5G ,Midnight Gray,128,4.1,21729,1911,15999,24999,3600.0,6.5,QualcommSnapdragon6955G,50.0,Good,0-20k,Large
+66,MOTOROLA,MOTOROLA G62 5G ,Frosted Blue,128,4.1,21729,1911,15999,24999,3600.0,6.5,QualcommSnapdragon6955G,50.0,Good,0-20k,Large
+67,realme,realme C53 ,Champion Black,128,4.1,3704,302,9999,11999,5000.0,6.74,T612,108.0,Good,0-20k,Very Large
+68,POCO,POCO M5 ,Power Black,128,4.2,7005,456,10499,18999,3600.0,6.58,MediatekHelioG99,50.0,Good,0-20k,Large
+69,REDMI,REDMI 11 Prime ,Peppy Purple,128,4.3,9848,490,10999,16999,5000.0,6.58,HelioG99,50.0,Good,0-20k,Large
+70,MOTOROLA,MOTOROLA g73 5G ,Midnight Blue,128,4.0,24832,3011,16999,21999,5000.0,6.5,MediatekDimensity930,50.0,Good,0-20k,Large
+71,REDMI,REDMI 11 Prime ,Flashy Black,128,4.3,9848,490,10999,16999,5000.0,6.58,HelioG99,50.0,Good,0-20k,Large
+72,realme,realme C30 ,Lake Blue,32,4.1,63798,3839,6499,9299,3600.0,6.5,UnisocT612,8.0,Good,0-20k,Large
+73,realme,realme C30 ,Bamboo Green,32,4.1,63798,3839,6499,9299,3600.0,6.5,UnisocT612,8.0,Good,0-20k,Large
+74,POCO,POCO X5 5G ,Jaguar Black,128,4.2,17772,1371,14999,20999,5000.0,6.67,QualcommSnapdragon695,48.0,Good,0-20k,Very Large
+75,realme,realme C30 ,Denim Black,32,4.1,63798,3839,6499,9299,3600.0,6.5,UnisocT612,8.0,Good,0-20k,Large
+76,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+77,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+78,APPLE,APPLE iPhone 14 ,Purple,128,4.6,46001,1748,67999,79900,3600.0,6.1,,12.0,Excellent,60k-80k,Average
+79,SAMSUNG,SAMSUNG Galaxy F13 ,Nightsky Green,64,4.3,166212,9517,9599,14999,3600.0,6.6,Exynos850,50.0,Good,0-20k,Very Large
+80,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+81,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+82,SAMSUNG,SAMSUNG Galaxy F13 ,Waterfall Blue,64,4.3,166212,9517,9599,14999,3600.0,6.6,Exynos850,50.0,Good,0-20k,Very Large
+83,MOTOROLA,MOTOROLA G32 ,Rose Gold,128,4.1,44305,3823,11999,18999,3600.0,6.5,QualcommSnapdragon680,50.0,Good,0-20k,Large
+84,LAVA,LAVA A1 Josh with BOL,Mystic Green,128,4.0,220,23,949,1399,1000.0,1.77,,50.0,Good,0-20k,Small
+85,SAMSUNG,SAMSUNG Galaxy F14 5G ,OMG Black,128,4.2,30637,2387,13990,18490,6000.0,6.6,"Exynos1330,OctaCore",50.0,Good,0-20k,Very Large
+86,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+87,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+88,POCO,POCO M5 ,Icy Blue,128,4.2,7005,456,10499,18999,3600.0,6.58,MediatekHelioG99,50.0,Good,0-20k,Large
+89,realme,realme 10 ,Rush Black,128,4.3,8010,564,14999,19999,5000.0,6.4,MediatekHelioG99OctaCore,50.0,Good,0-20k,Large
+90,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+91,SAREGAMA,SAREGAMA Carvaan Mobile Tamil M21,Mystic Green,128,3.4,12,2,2490,14999,2500.0,2.4,,0.3,Bad,0-20k,Small
+92,MOTOROLA,MOTOROLA e13 ,Cosmic Black,64,4.0,4704,404,5999,9999,5000.0,6.5,UnisocT606,13.0,Good,0-20k,Large
+93,POCO,POCO M5 ,Yellow,64,4.1,17670,1498,8499,15999,3600.0,6.58,MediatekHelioG99,50.0,Good,0-20k,Large
+94,Infinix,Infinix NOTE 12i ,Metaverse Blue,64,4.2,8372,849,9499,12999,3600.0,6.7,MediatekHelioG85,50.0,Good,0-20k,Very Large
+95,Infinix,Infinix NOTE 12i ,Alpine White,64,4.2,8372,849,9499,12999,3600.0,6.7,MediatekHelioG85,50.0,Good,0-20k,Very Large
+96,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+97,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+98,GFive,GFive U873,Mystic Green,128,3.5,10869,954,725,999,1000.0,1.8,,0.3,Fair,0-20k,Small
+99,REDMI,REDMI 11 Prime ,Playful Green,128,4.3,9848,490,10999,16999,5000.0,6.58,HelioG99,50.0,Good,0-20k,Large
+100,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+101,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+102,Infinix,Infinix NOTE 12i ,Force Black,64,4.2,8372,849,9499,12999,3600.0,6.7,MediatekHelioG85,50.0,Good,0-20k,Very Large
+103,Snexian,Snexian GURU 310,Mystic Green,128,3.3,21358,1694,699,999,800.0,1.8,,1.3,Bad,0-20k,Small
+104,REDMI,REDMI A2 ,Classic Black,64,4.1,298,19,6799,9999,5000.0,6.52,,8.0,Good,0-20k,Large
+105,REDMI,REDMI A2 ,Aqua Blue,64,4.1,298,19,6645,9999,5000.0,6.52,,8.0,Good,0-20k,Large
+106,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+107,Micromax,Micromax S114,Mystic Green,128,3.8,423,25,965,1799,1000.0,1.77,,0.08,Fair,0-20k,Small
+108,Micromax,Micromax S114,Mystic Green,128,3.8,423,25,950,1799,1000.0,1.77,,0.08,Fair,0-20k,Small
+109,Micromax,Micromax S114,Mystic Green,128,3.8,423,25,956,1799,1000.0,1.77,,0.08,Fair,0-20k,Small
+110,REDMI,REDMI A2 ,Classic Black,64,4.1,1763,97,7102,10999,5000.0,6.52,,8.0,Good,0-20k,Large
+111,REDMI,REDMI A2 ,Aqua Blue,64,4.1,1763,97,7257,10999,5000.0,6.52,,8.0,Good,0-20k,Large
+112,REDMI,REDMI A2 ,Sea Green,32,4.1,298,19,6748,8999,5000.0,6.52,,8.0,Good,0-20k,Large
+113,Infinix,Infinix HOT 20 5G ,Space Blue,64,4.2,15114,1176,11499,17999,3600.0,6.6,Dimensity810,50.0,Good,0-20k,Very Large
+114,POCO,POCO X5 5G ,Supernova Green,128,4.2,17772,1371,14999,20999,5000.0,6.67,QualcommSnapdragon695,48.0,Good,0-20k,Very Large
+115,MOTOROLA,MOTOROLA g14 ,Sky Blue,128,4.1,1007,116,9999,12999,5000.0,6.5,T616,50.0,Good,0-20k,Large
+116,MOTOROLA,MOTOROLA G32 ,Satin Maroon,128,4.1,44305,3823,11999,18999,3600.0,6.5,QualcommSnapdragon680,50.0,Good,0-20k,Large
+117,MOTOROLA,MOTOROLA e13 ,Creamy White,64,4.0,4704,404,5999,9999,5000.0,6.5,UnisocT606,13.0,Good,0-20k,Large
+118,Infinix,Infinix HOT 20 5G ,Blaster Green,64,4.2,15114,1176,11499,17999,3600.0,6.6,Dimensity810,50.0,Good,0-20k,Very Large
+119,REDMI,REDMI 12 ,Pastel Blue,128,4.3,6508,487,9999,14999,5000.0,6.79,HelioG88,50.0,Good,0-20k,Very Large
+120,realme,realme 10 ,Clash White,64,4.2,18484,1479,11499,15999,5000.0,6.4,MediatekHelioG99OctaCore,50.0,Good,0-20k,Large
+121,realme,realme 10 ,Rush Black,64,4.2,18484,1479,11499,15999,5000.0,6.4,MediatekHelioG99OctaCore,50.0,Good,0-20k,Large
+122,GFive,GFive U220i,Mystic Green,128,3.3,890,79,699,999,1000.0,1.8,,0.3,Bad,0-20k,Small
+123,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+124,REDMI,REDMI 11 Prime ,Flashy Black,128,4.3,9848,490,10999,16999,5000.0,6.58,HelioG99,50.0,Good,0-20k,Large
+125,realme,realme C55 ,Sunshower,64,4.3,13445,875,11999,13999,5000.0,6.72,HelioG88,64.0,Good,0-20k,Very Large
+126,SAMSUNG,SAMSUNG Galaxy M14 5G ,Icy Silver,128,4.2,2545,187,15295,18990,6000.0,6.6,,50.0,Good,0-20k,Very Large
+127,POCO,POCO M5 ,Icy Blue,128,4.2,7005,456,10499,18999,3600.0,6.58,MediatekHelioG99,50.0,Good,0-20k,Large
+128,POCO,POCO M6 Pro 5G ,Forest Green,64,4.5,2340,150,10999,14999,5000.0,6.79,Snapdragon4Gen2,50.0,Excellent,0-20k,Very Large
+129,Infinix,Infinix Note 30 5G ,Sunset Gold,128,4.1,1774,208,14999,17999,3600.0,6.78,Dimensity6080,108.0,Good,0-20k,Very Large
+130,GFive,GFive U873,Mystic Green,128,3.5,10869,954,725,999,1000.0,1.8,,0.3,Fair,0-20k,Small
+131,REDMI,REDMI Note 12 Pro 5G ,Glacier Blue,128,4.2,31092,3016,23999,27999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+132,Snexian,Snexian GURU 310,Mystic Green,128,3.3,21358,1694,699,999,800.0,1.8,,1.3,Bad,0-20k,Small
+133,REDMI,REDMI Note 12 ,Lunar Black,64,4.1,11885,1012,13999,18999,5000.0,6.67,Snapdragon685,50.0,Good,0-20k,Very Large
+134,KARBONN,KARBONN Jumbo K9,Mystic Green,128,4.0,13708,1341,1296,1552,3600.0,2.6,,1.3,Good,0-20k,Small
+135,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+136,OPPO,OPPO Reno10 5G ,Silvery Grey,256,4.2,10019,1451,32999,38999,5000.0,6.7,Dimensity7050,64.0,Good,20k-40k,Very Large
+137,Micromax,Micromax X512,Mystic Green,128,3.9,10685,953,1095,1349,1750.0,1.77,,0.3,Fair,0-20k,Small
+138,MOTOROLA,MOTOROLA g72 ,Meteorite Grey,128,4.1,18846,2394,14999,21999,3600.0,6.55,MediatekHelioG99,108.0,Good,0-20k,Large
+139,REDMI,REDMI 11 Prime ,Playful Green,128,4.3,9848,490,10999,16999,5000.0,6.58,HelioG99,50.0,Good,0-20k,Large
+140,GFive,GFive U220+,Mystic Green,128,3.5,5566,603,699,999,1000.0,1.8,,0.3,Fair,0-20k,Small
+141,Infinix,Infinix HOT 20 5G ,Space Blue,64,4.2,15114,1176,11499,17999,3600.0,6.6,Dimensity810,50.0,Good,0-20k,Very Large
+142,SAMSUNG,SAMSUNG Galaxy F14 5G ,B.A.E. Purple,128,4.2,30637,2387,13990,18490,6000.0,6.6,"Exynos1330,OctaCore",50.0,Good,0-20k,Very Large
+143,HOTLINE,HOTLINE H6700,Mystic Green,128,3.3,264,20,649,1099,1000.0,1.8,,0.3,Bad,0-20k,Small
+144,Micromax,Micromax S114,Mystic Green,128,3.8,423,25,950,1799,1000.0,1.77,,0.08,Fair,0-20k,Small
+145,Micromax,Micromax S114,Mystic Green,128,3.8,423,25,956,1799,1000.0,1.77,,0.08,Fair,0-20k,Small
+146,SAMSUNG,SAMSUNG Galaxy F04 ,Opal Green,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+147,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+148,Micromax,Micromax S114,Mystic Green,128,3.8,423,25,965,1799,1000.0,1.77,,0.08,Fair,0-20k,Small
+149,MOTOROLA,MOTOROLA G32 ,Satin Maroon,128,4.1,44305,3823,11999,18999,3600.0,6.5,QualcommSnapdragon680,50.0,Good,0-20k,Large
+150,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+151,SAMSUNG,SAMSUNG Galaxy F04 ,Jade Purple,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+152,REDMI,REDMI Note 12 Pro 5G ,Onyx Black,128,4.2,31092,3016,23999,27999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+153,POCO,POCO C50 ,Country Green,32,4.0,17794,1119,6299,9999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+154,LAVA,LAVA Hero 600i,Mystic Green,128,4.1,1555,90,898,1199,620.0,1.8,,50.0,Good,0-20k,Small
+155,POCO,POCO M5 ,Yellow,64,4.1,17670,1498,8499,15999,3600.0,6.58,MediatekHelioG99,50.0,Good,0-20k,Large
+156,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+157,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+158,Micromax,Micromax X512,Mystic Green,128,3.9,10685,953,1099,1799,1750.0,1.77,,0.3,Fair,0-20k,Small
+159,Infinix,Infinix HOT 20 5G ,Blaster Green,64,4.2,15114,1176,11499,17999,3600.0,6.6,Dimensity810,50.0,Good,0-20k,Very Large
+160,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+161,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,128,4.1,4902,295,9702,13499,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+162,APPLE,APPLE iPhone 14 ,Blue,128,4.6,46001,1748,67999,79900,3600.0,6.1,,12.0,Excellent,60k-80k,Average
+163,itel,itel Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,Mystic Green,128,4.0,1515,130,905,1449,3600.0,1.8,Spreadtrum,0.0,Good,0-20k,Small
+164,itel,itel Ace2 Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,Mystic Green,128,4.0,1515,130,920,1449,3600.0,1.8,Spreadtrum,0.0,Good,0-20k,Small
+165,REDMI,REDMI A2 ,Classic Black,64,4.1,298,19,6799,9999,5000.0,6.52,,8.0,Good,0-20k,Large
+166,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,64,4.1,4902,295,8080,11999,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+167,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+168,REDMI,REDMI 12C ,Lavender Purple,128,4.2,1945,112,9285,14999,5000.0,6.71,MediatekMT6769ZHelioG85,50.0,Good,0-20k,Very Large
+169,Infinix,Infinix HOT 30 5G ,Knight Black,128,4.1,643,80,12499,14999,3600.0,6.78,Dimensity60205G,50.0,Good,0-20k,Very Large
+170,REDMI,REDMI 12C ,Royal Blue,64,4.2,1945,112,8699,13999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+171,SAMSUNG,SAMSUNG Galaxy M14 5G ,Icy Silver,128,4.2,2545,187,15295,18990,6000.0,6.6,,50.0,Good,0-20k,Very Large
+172,realme,realme C55 ,Rainy Night,64,4.3,13445,875,11999,13999,5000.0,6.72,HelioG88,64.0,Good,0-20k,Very Large
+173,realme,realme C55 ,Sunshower,64,4.4,70237,4036,10999,12999,5000.0,6.72,HelioG88,64.0,Good,0-20k,Very Large
+174,realme,realme C55 ,Rainy Night,64,4.4,70237,4036,10999,12999,5000.0,6.72,HelioG88,64.0,Good,0-20k,Very Large
+175,REDMI,REDMI 12c ,Matte Black,128,4.1,1182,62,10105,15999,5000.0,6.71,MediaTekHelioG85,50.0,Good,0-20k,Very Large
+176,vivo,vivo Y02t ,Sunset Gold,64,4.1,703,31,9999,15999,5000.0,6.51,HelioP35,8.0,Good,0-20k,Large
+177,KARBONN,KARBONN Jumbo K9,Mystic Green,128,4.0,13708,1341,1296,1552,3600.0,2.6,,1.3,Good,0-20k,Small
+178,SAMSUNG,SAMSUNG Galaxy F13 ,Waterfall Blue,128,4.3,166212,9517,10599,16999,3600.0,6.6,Exynos850,50.0,Good,0-20k,Very Large
+179,A10E,A10E,Mystic Green,128,4.1,1748,131,1349,1599,800.0,1.8,,50.0,Good,0-20k,Small
+180,POCO,POCO M4 5G ,Power Black,64,4.2,91755,6341,11999,15999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+181,GFive,GFive U220+,Mystic Green,128,3.5,5566,603,699,999,1000.0,1.8,,0.3,Fair,0-20k,Small
+182,DIZO,DIZO Star 500,Mystic Green,128,3.9,15840,1740,1749,1999,1900.0,2.8,SC6531E,0.3,Fair,0-20k,Small
+183,realme,realme 11 Pro 5G ,Sunrise Beige,256,4.3,22733,2084,24999,27999,3600.0,6.7,Dimensity7050,100.0,Good,20k-40k,Very Large
+184,MOTOROLA,MOTOROLA Edge 40 ,Eclipse Black,256,4.2,18060,2731,29999,34999,4400.0,6.5,Dimensity8020,50.0,Good,20k-40k,Large
+185,Kechaoda,Kechaoda A26,Mystic Green,128,4.0,17329,1153,999,1399,800.0,0.66,,50.0,Good,0-20k,Small
+186,Nokia,Nokia 106 4G,Mystic Green,128,3.8,90,4,2199,2999,1450.0,1.77,UnisocT107,0.0,Fair,0-20k,Small
+187,Kechaoda,Kechaoda A26,Mystic Green,128,4.0,17329,1153,999,1450,800.0,0.66,,50.0,Good,0-20k,Small
+188,OPPO,OPPO Reno10 5G ,Silvery Grey,256,4.2,10019,1451,32999,38999,5000.0,6.7,Dimensity7050,64.0,Good,20k-40k,Very Large
+189,REDMI,REDMI Note 12 Pro 5G ,Onyx Black,128,4.2,31092,3016,23999,27999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+190,REDMI,REDMI A2 ,Sea Green,64,4.1,298,19,6778,9999,5000.0,6.52,,8.0,Good,0-20k,Large
+191,Nokia,Nokia 106 4G,Mystic Green,128,3.8,90,4,2199,2999,1450.0,1.77,UnisocT107,0.0,Fair,0-20k,Small
+192,Nokia,Nokia 106 4G,Mystic Green,128,3.8,90,4,2199,2999,1450.0,1.77,UnisocT107,0.0,Fair,0-20k,Small
+193,REDMI,REDMI A2 ,Sea Green,64,4.1,1763,97,7150,10999,5000.0,6.52,,8.0,Good,0-20k,Large
+194,realme,realme 10 Pro 5G ,Dark Matter,128,4.3,35102,2530,18999,20999,5000.0,6.72,QualcommSnapdragon6955G,108.0,Good,0-20k,Very Large
+195,REDMI,REDMI A1+ ,Light Green,32,4.2,9993,412,6299,9999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+196,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+197,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+198,REDMI,REDMI Note 12 ,Sunrise Gold,64,4.1,11885,1012,13999,18999,5000.0,6.67,Snapdragon685,50.0,Good,0-20k,Very Large
+199,Kechaoda,Kechaoda A26,Mystic Green,128,4.0,17329,1153,999,1399,800.0,0.66,,50.0,Good,0-20k,Small
+200,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+201,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+202,MOTOROLA,MOTOROLA e13 ,Aurora Green,64,4.0,4704,404,5999,9999,5000.0,6.5,UnisocT606,13.0,Good,0-20k,Large
+203,REDMI,REDMI Note 12 5G ,Mystique Blue,128,4.0,3573,293,16999,19999,5000.0,6.67,QualcommSnapdragon4Gen1,48.0,Good,0-20k,Very Large
+204,POCO,POCO X5 Pro 5G ,Horizon Blue,128,4.3,11735,1275,20999,25999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+205,Kechaoda,Kechaoda A26,Mystic Green,128,4.0,17329,1153,999,1599,800.0,0.66,,50.0,Good,0-20k,Small
+206,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+207,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+208,realme,realme C55 ,Sunshower,64,4.3,13445,875,11999,13999,5000.0,6.72,HelioG88,64.0,Good,0-20k,Very Large
+209,realme,realme Narzo N53 ,Feather Black,64,4.3,1015,58,10324,10999,5000.0,6.74,,50.0,Good,0-20k,Very Large
+210,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+211,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+212,Nokia,Nokia 105 SS 2021,Mystic Green,128,4.2,85118,6330,1540,1600,3600.0,1.77,,50.0,Good,0-20k,Small
+213,DIZO,DIZO Star 500,Mystic Green,128,3.9,15840,1740,1899,1999,1900.0,2.8,SC6531E,0.3,Fair,0-20k,Small
+214,POCO,POCO M6 Pro 5G ,Power Black,64,4.5,2340,150,10999,14999,5000.0,6.79,Snapdragon4Gen2,50.0,Excellent,0-20k,Very Large
+215,SAMSUNG,SAMSUNG Galaxy F14 5G ,B.A.E. Purple,128,4.2,30637,2387,13990,18490,6000.0,6.6,"Exynos1330,OctaCore",50.0,Good,0-20k,Very Large
+216,REDMI,REDMI Note 12 ,Ice Blue,64,4.1,11885,1012,13999,18999,5000.0,6.67,Snapdragon685,50.0,Good,0-20k,Very Large
+217,realme,realme 11 Pro 5G ,Astral Black,256,4.2,445,38,27999,30999,3600.0,6.7,Dimensity7050,100.0,Good,20k-40k,Very Large
+218,I,I Kall K100,Mystic Green,128,3.3,7189,645,719,999,1000.0,1.8,,50.0,Bad,0-20k,Small
+219,POCO,POCO X5 Pro 5G ,Yellow,128,4.3,11735,1275,20999,25999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+220,POCO,POCO M4 Pro ,Yellow,128,4.2,24509,1906,13999,21999,3600.0,6.43,MediatekHelioG96,64.0,Good,0-20k,Large
+221,vivo,vivo Y02 ,Cosmic Grey,32,4.2,830,39,8499,12999,5000.0,6.51,MediaTekP22,8.0,Good,0-20k,Large
+222,realme,realme 11 Pro 5G ,Astral Black,128,4.3,22733,2084,23999,25999,3600.0,6.7,Dimensity7050,100.0,Good,20k-40k,Very Large
+223,Micromax,Micromax X708,Mystic Green,128,3.9,3545,246,1335,1799,1450.0,2.4,,0.3,Fair,0-20k,Small
+224,OnePlus,OnePlus 10R ,Sierra Black,128,4.3,3335,213,29913,38998,5000.0,6.7,,50.0,Good,20k-40k,Very Large
+225,LAVA,LAVA A1 2021,Mystic Green,128,4.0,5244,419,1195,1499,3600.0,1.8,Android10.0,0.3,Good,0-20k,Small
+226,REDMI,REDMI 12C ,Lavender Purple,64,4.2,1945,112,8655,13999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+227,POCO,POCO X5 Pro 5G ,Astral Black,128,4.3,11735,1275,20999,25999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+228,OPPO,OPPO Reno10 5G ,Ice Blue,256,4.2,10019,1451,32999,38999,5000.0,6.7,Dimensity7050,64.0,Good,20k-40k,Very Large
+229,REDMI,REDMI Note 12 5G ,Sunrise Gold,128,4.0,3573,293,16999,19999,5000.0,6.67,QualcommSnapdragon4Gen1,48.0,Good,0-20k,Very Large
+230,DIZO,DIZO Star 500,Mystic Green,128,3.9,15840,1740,1796,1999,1900.0,2.8,SC6531E,0.3,Fair,0-20k,Small
+231,SAMSUNG,SAMSUNG Galaxy F13 ,Sunrise Copper,128,4.3,166212,9517,10599,16999,3600.0,6.6,Exynos850,50.0,Good,0-20k,Very Large
+232,LAVA,LAVA Hero 600i,Mystic Green,128,4.1,1555,90,898,1199,620.0,1.8,,50.0,Good,0-20k,Small
+233,realme,realme Narzo 60 5g ,Cosmic Black,256,4.2,183,9,20167,20999,5000.0,6.43,,64.0,Good,20k-40k,Large
+234,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+235,SAMSUNG,SAMSUNG Galaxy F13 ,Nightsky Green,128,4.3,166212,9517,10599,16999,3600.0,6.6,Exynos850,50.0,Good,0-20k,Very Large
+236,Infinix,Infinix Zero 5G 2023 ,Submariner Black,128,4.1,6773,688,14999,24999,3600.0,6.78,MediatekDimensity920,50.0,Good,0-20k,Very Large
+237,MOTOROLA,MOTOROLA g42 ,Metallic Rose,64,4.2,10298,1058,9999,16999,3600.0,6.402,QualcommSnapdragon680,50.0,Good,0-20k,Large
+238,realme,realme C30 ,Bamboo Green,32,4.2,107789,5715,5999,8499,3600.0,6.5,UnisocT612,8.0,Good,0-20k,Large
+239,vivo,vivo T2x 5G ,Marine Blue,128,4.4,58297,3108,12999,17999,5000.0,6.58,Dimensity6020,50.0,Good,0-20k,Large
+240,SAMSUNG,SAMSUNG Galaxy F04 ,Opal Green,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+241,SAMSUNG,SAMSUNG Galaxy F04 ,Jade Purple,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+242,SAMSUNG,SAMSUNG Guru Music 2,Mystic Green,128,4.3,208730,19031,2890,14999,800.0,6.5,,50.0,Good,0-20k,Large
+243,SAMSUNG,SAMSUNG Galaxy F13 ,Nightsky Green,128,4.3,166212,9517,10599,16999,3600.0,6.6,Exynos850,50.0,Good,0-20k,Very Large
+244,Nokia,Nokia 105 SS 2021,Mystic Green,128,4.2,85118,6330,1540,1600,3600.0,1.77,,50.0,Good,0-20k,Small
+245,LAVA,LAVA A1,Mystic Green,128,4.2,110313,11555,899,1049,800.0,1.77,,0.3,Good,0-20k,Small
+246,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,128,4.1,4902,295,9743,13499,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+247,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,64,4.1,4902,295,8146,11999,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+248,LAVA,LAVA A1,Mystic Green,128,4.2,20614,1923,1159,14999,800.0,1.77,,0.3,Good,0-20k,Small
+249,LAVA,LAVA A1,Mystic Green,128,4.2,20614,1923,1159,14999,800.0,1.77,,0.3,Good,0-20k,Small
+250,SAREGAMA,SAREGAMA Carvaan Mobile Hindi Don M12 with 1000 Pre-Loaded Songs,Mystic Green,128,3.9,72,9,1750,14999,800.0,1.8,,50.0,Fair,0-20k,Small
+251,LAVA,LAVA A1,Mystic Green,128,4.2,20614,1923,1049,14999,800.0,1.77,,0.3,Good,0-20k,Small
+252,POCO,POCO X5 Pro 5G ,Yellow,128,4.3,11735,1275,20999,25999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+253,REDMI,REDMI 12C ,Royal Blue,64,4.2,1945,112,8699,13999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+254,REDMI,REDMI 12C ,Lavender Purple,64,4.2,1945,112,8655,13999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+255,POCO,POCO X5 Pro 5G ,Astral Black,256,4.3,13980,1430,22999,28999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+256,POCO,POCO X5 Pro 5G ,Astral Black,128,4.3,11735,1275,20999,25999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+257,REDMI,REDMI A2+ ,?Aqua Blue,64,4.1,352,21,7897,11999,5000.0,6.52,,8.0,Good,0-20k,Large
+258,realme,realme 10 Pro 5G ,Dark Matter,128,4.3,35102,2530,18999,20999,5000.0,6.72,QualcommSnapdragon6955G,108.0,Good,0-20k,Very Large
+259,REDMI,REDMI Note 12 ,Ice Blue,64,4.1,11885,1012,13999,18999,5000.0,6.67,Snapdragon685,50.0,Good,0-20k,Very Large
+260,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+261,Infinix,Infinix Zero 5G 2023 ,Submariner Black,128,4.1,6773,688,14999,24999,3600.0,6.78,MediatekDimensity920,50.0,Good,0-20k,Very Large
+262,GFive,GFive U106,Mystic Green,128,3.5,2508,203,725,999,950.0,1.8,,0.3,Fair,0-20k,Small
+263,Kechaoda,Kechaoda A26,Mystic Green,128,4.0,17329,1153,999,1399,800.0,0.66,,50.0,Good,0-20k,Small
+264,Infinix,Infinix HOT 30 5G ,Miami Orange,128,4.2,3092,315,13499,16999,3600.0,6.78,Dimensity60205G,50.0,Good,0-20k,Very Large
+265,SAMSUNG,SAMSUNG Galaxy F14 5G ,B.A.E. Purple,128,4.2,11885,887,12990,17490,6000.0,6.6,"Exynos1330,OctaCore",50.0,Good,0-20k,Very Large
+266,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+267,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+268,REDMI,REDMI A2+ ,Classic Black,64,4.1,352,21,7903,11999,5000.0,6.52,,8.0,Good,0-20k,Large
+269,realme,realme 11 Pro+ 5G ,Oasis Green,256,4.3,5709,634,29999,32999,3600.0,6.7,Dimensity7050,200.0,Good,20k-40k,Very Large
+270,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+271,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+272,Nokia,Nokia 105,Mystic Green,128,4.2,16765,1566,1549,1599,1000.0,1.8,,0.03,Good,0-20k,Small
+273,REDMI,REDMI Note 12 Pro 5G ,Stardust Purple,256,4.2,15993,1503,26999,31999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+274,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,1129,1209,850.0,1.44,,0.3,Good,0-20k,Small
+275,Nokia,Nokia 125 DS 2020,Mystic Green,128,3.9,6835,442,2430,2599,3600.0,2.4,MediaTek,50.0,Fair,0-20k,Small
+276,REDMI,REDMI Note 12 Pro 5G ,Glacier Blue,256,4.2,15993,1503,26999,31999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+277,PHILIPS,PHILIPS Xenium E209,Mystic Green,128,3.9,1587,150,1299,2999,3600.0,2.4,,0.08,Fair,0-20k,Small
+278,REDMI,REDMI Note 12 5G ,Matte Black,256,4.1,1264,96,20999,23999,5000.0,6.67,QualcommSnapdragon4Gen1,48.0,Good,20k-40k,Very Large
+279,LAVA,LAVA A3 Power,Mystic Green,128,4.1,2695,244,1379,1699,3600.0,1.77,,0.3,Good,0-20k,Small
+280,Infinix,Infinix Smart 6 HD ,Aqua Sky,32,4.3,36781,2081,5999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+281,Infinix,Infinix Smart 6 HD ,Force Black,32,4.3,36781,2081,5999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+282,REDMI,REDMI A2+ ,Sea Green,64,4.1,352,21,7919,11999,5000.0,6.52,,8.0,Good,0-20k,Large
+283,realme,realme Narzo 60 5G ,Mars Orange,128,4.2,183,9,18235,19999,5000.0,6.43,,64.0,Good,0-20k,Large
+284,realme,realme Narzo 60 5G ,?Cosmic Black,128,4.2,183,9,18095,19999,5000.0,6.43,,64.0,Good,0-20k,Large
+285,GFive,GFive U707,Mystic Green,128,3.6,13789,1292,725,999,1000.0,1.8,,0.3,Fair,0-20k,Small
+286,GFive,GFive U707,Mystic Green,128,3.6,13789,1292,725,999,950.0,1.8,,0.3,Fair,0-20k,Small
+287,REDMI,REDMI 12C ,Royal Blue,128,4.2,1945,112,9385,14999,5000.0,6.71,MediatekMT6769ZHelioG85,50.0,Good,0-20k,Very Large
+288,Micromax,Micromax S115,Mystic Green,128,3.7,640,39,932,1599,800.0,1.77,,50.0,Fair,0-20k,Small
+289,REDMI,REDMI 12C ,Matte Black,128,4.2,1945,112,9270,14999,5000.0,6.71,MediatekMT6769ZHelioG85,50.0,Good,0-20k,Very Large
+290,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+291,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+292,POCO,POCO M4 5G ,Cool Blue,128,4.2,46648,3318,13999,18999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+293,Infinix,Infinix HOT 30 5G ,Aurora Blue,128,4.1,643,80,12499,14999,3600.0,6.78,Dimensity60205G,50.0,Good,0-20k,Very Large
+294,Micromax,Micromax S115,Mystic Green,128,3.7,640,39,888,1599,1000.0,1.77,,50.0,Fair,0-20k,Small
+295,realme,realme 11 Pro 5G ,Sunrise Beige,256,4.2,445,38,27999,30999,3600.0,6.7,Dimensity7050,100.0,Good,20k-40k,Very Large
+296,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+297,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+298,OPPO,OPPO A17 ,Lake Blue,64,4.3,9209,392,11999,14999,3600.0,6.56,MediatekHelioG35,50.0,Good,0-20k,Large
+299,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,1110,1499,850.0,1.44,,0.3,Good,0-20k,Small
+300,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+301,REDMI,REDMI 12C ,Mint Green,128,4.2,1945,112,9283,14999,5000.0,6.71,MediatekMT6769ZHelioG85,50.0,Good,0-20k,Very Large
+302,realme,realme Narzo 60 5G ,Mars Orange,256,4.2,183,9,20332,21999,5000.0,6.43,,64.0,Good,20k-40k,Large
+303,POCO,POCO M6 Pro 5G ,Forest Green,64,4.5,2340,150,10999,14999,5000.0,6.79,Snapdragon4Gen2,50.0,Excellent,0-20k,Very Large
+304,REDMI,REDMI 12C ,Lavender Purple,128,4.2,1945,112,9284,14999,5000.0,6.71,MediatekMT6769ZHelioG85,50.0,Good,0-20k,Very Large
+305,REDMI,REDMI 12C ,Mint Green,128,4.1,1182,62,10104,15999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+306,Motorola,Motorola a70,Mystic Green,128,4.0,2207,212,1999,2320,1750.0,2.4,,50.0,Good,0-20k,Small
+307,Good,Good One G5605,Mystic Green,128,3.9,3000,499,999,1999,2500.0,1.8,,2.0,Fair,0-20k,Small
+308,Motorola,Motorola a70,Mystic Green,128,4.0,1694,174,1869,2399,1750.0,2.4,,50.0,Good,0-20k,Small
+309,itel,itel it2163s,Mystic Green,128,3.9,214,12,1039,1429,1200.0,1.8,,0.3,Fair,0-20k,Small
+310,SAMSUNG,SAMSUNG Galaxy F04 ,Opal Green,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+311,LAVA,LAVA A1 2021,Mystic Green,128,4.0,5244,419,1119,1449,3600.0,1.77,,0.3,Good,0-20k,Small
+312,GFive,GFive U106,Mystic Green,128,3.5,2508,203,719,1099,950.0,1.8,,0.3,Fair,0-20k,Small
+313,Infinix,Infinix Smart 6 HD ,Aqua Sky,32,4.3,36781,2081,5999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+314,Infinix,Infinix Smart 6 HD ,Force Black,32,4.3,36781,2081,5999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+315,Kechaoda,Kechaoda K55,Mystic Green,128,3.8,331,12,1160,1499,400.0,1.8,,1.3,Fair,0-20k,Small
+316,REDMI,REDMI 12C ,Mint Green,128,4.1,1182,62,10104,15999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+317,REDMI,REDMI Note 12 Pro 5G ,Onyx Black,256,4.2,15993,1503,26999,31999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+318,GFive,GFive U106,Mystic Green,128,3.5,2508,203,725,999,950.0,1.8,,0.3,Fair,0-20k,Small
+319,realme,realme 11 Pro 5G ,Astral Black,256,4.3,22733,2084,24999,27999,3600.0,6.7,Dimensity7050,100.0,Good,20k-40k,Very Large
+320,realme,realme 11 Pro 5G ,Oasis Green,256,4.3,22733,2084,24999,27999,3600.0,6.7,Dimensity7050,100.0,Good,20k-40k,Very Large
+321,OnePlus,OnePlus 11R 5G ,Galactic Silver,256,4.5,5358,419,44349,44999,5000.0,6.7,,50.0,Excellent,40k-60k,Very Large
+322,realme,realme 11 Pro 5G ,Sunrise Beige,128,4.3,22733,2084,23999,25999,3600.0,6.7,Dimensity7050,100.0,Good,20k-40k,Very Large
+323,OnePlus,OnePlus 11R 5G ,Galactic Silver,128,4.5,6323,561,39438,39999,5000.0,6.7,,50.0,Excellent,20k-40k,Very Large
+324,REDMI,REDMI Note 12 Pro 5G ,Glacier Blue,256,4.2,15993,1503,26999,31999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+325,Micromax,Micromax X513+,Mystic Green,128,3.8,2970,196,1120,1799,1750.0,1.77,,0.3,Fair,0-20k,Small
+326,POCO,POCO X5 Pro 5G ,Horizon Blue,256,4.3,13980,1430,22999,28999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+327,Micromax,Micromax S115,Mystic Green,128,3.7,640,39,899,1599,800.0,1.77,,50.0,Fair,0-20k,Small
+328,realme,realme Narzo 60 5g ,Cosmic Black,256,4.2,183,9,20167,20999,5000.0,6.43,,64.0,Good,20k-40k,Large
+329,REDMI,REDMI Note 12 5G ,Sunrise Gold,128,4.0,3573,293,16999,19999,5000.0,6.67,QualcommSnapdragon4Gen1,48.0,Good,0-20k,Very Large
+330,LAVA,LAVA A1,Mystic Green,128,4.2,110313,11555,1229,1259,800.0,1.77,,0.3,Good,0-20k,Small
+331,Infinix,Infinix Smart 6 HD ,Origin Blue,32,4.3,36781,2081,5999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+332,Nokia,Nokia 125 TA-1253 DS,Mystic Green,128,4.0,3587,233,2430,2599,3600.0,2.4,MediaTek,50.0,Good,0-20k,Small
+333,LAVA,LAVA A1,Mystic Green,128,4.2,20614,1923,1225,1249,800.0,1.77,,0.3,Good,0-20k,Small
+334,GFive,GFive U707,Mystic Green,128,3.6,13789,1292,725,799,950.0,1.8,,0.3,Fair,0-20k,Small
+335,MOTOROLA,MOTOROLA Edge 30 ,Meteor Grey,128,4.1,7151,925,22999,34999,3600.0,6.55,QualcommSnapdragon778GPlus,50.0,Good,20k-40k,Large
+336,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+337,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+338,IQOO,IQOO Z7s 5G ,Norway Blue,128,4.3,654,38,19149,23999,4500.0,6.38,,64.0,Good,0-20k,Large
+339,KARBONN,KARBONN K9,Mystic Green,128,4.1,8152,665,1375,1590,1800.0,2.4,,50.0,Good,0-20k,Small
+340,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+341,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+342,REDMI,REDMI Note 12 5G ,Matte Black,128,4.0,3573,293,16999,19999,5000.0,6.67,QualcommSnapdragon4Gen1,48.0,Good,0-20k,Very Large
+343,OnePlus,OnePlus 11R 5G ,Sonic Black,256,4.5,5358,419,43853,44999,5000.0,6.7,,50.0,Excellent,40k-60k,Very Large
+344,OPPO,OPPO A78 5G ,Glowing Black,128,4.4,2189,109,18999,21999,5000.0,6.56,6833,50.0,Good,0-20k,Large
+345,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+346,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+347,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+348,SAMSUNG,SAMSUNG Galaxy F14 5G ,GOAT Green,128,4.2,30637,2387,13990,18490,6000.0,6.6,"Exynos1330,OctaCore",50.0,Good,0-20k,Very Large
+349,REDMI,REDMI Note 12 Pro 5G ,Onyx Black,256,4.2,15993,1503,26999,31999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+350,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+351,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+352,realme,realme GT NEO 2 ,NEO Black,256,4.4,4625,648,25999,38999,5000.0,6.62,QualcommSnapdragon870,64.0,Good,20k-40k,Very Large
+353,realme,realme GT NEO 2 ,NEO Blue,256,4.4,4625,648,25999,38999,5000.0,6.62,QualcommSnapdragon870,64.0,Good,20k-40k,Very Large
+354,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+355,LAVA,LAVA GEM POWER,Mystic Green,128,4.1,116,11,1669,2099,2575.0,2.8,,2.0,Good,0-20k,Small
+356,LAVA,LAVA A1 Josh BOL,Mystic Green,128,4.2,84,9,1039,1399,1000.0,1.77,,50.0,Good,0-20k,Small
+357,realme,realme 11 Pro+ 5G ,Sunrise Beige,256,4.3,5709,634,29999,32999,3600.0,6.7,Dimensity7050,200.0,Good,20k-40k,Very Large
+358,realme,realme 11 Pro+ 5G ,Sunrise Beige,256,4.3,19872,2162,27999,29999,3600.0,6.7,Dimensity7050,200.0,Good,20k-40k,Very Large
+359,Micromax,Micromax S115,Mystic Green,128,3.7,640,39,899,1599,800.0,1.77,,50.0,Fair,0-20k,Small
+360,SAMSUNG,SAMSUNG Galaxy F04 ,Opal Green,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+361,SAMSUNG,SAMSUNG Galaxy F04 ,Jade Purple,64,4.2,38773,2205,7099,11499,3600.0,6.5,MediatekHelioP35,13.0,Good,0-20k,Large
+362,KARBONN,KARBONN K531,Mystic Green,128,4.0,305,29,1390,1790,1800.0,2.4,,0.3,Good,0-20k,Small
+363,KARBONN,KARBONN K531,Mystic Green,128,4.0,305,29,1391,1790,1800.0,2.4,,0.3,Good,0-20k,Small
+364,POCO,POCO M4 5G ,Yellow,64,4.2,91755,6341,11999,15999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+365,LAVA,LAVA A1 2021,Mystic Green,128,4.0,5244,419,1195,1499,3600.0,1.8,Android10.0,0.3,Good,0-20k,Small
+366,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,128,4.1,4902,295,9743,13499,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+367,SAMSUNG,SAMSUNG Galaxy M04 ,Dark Blue,64,4.1,4902,295,8146,11999,5000.0,6.5,MediaTekHelioP35,13.0,Good,0-20k,Large
+368,OnePlus,OnePlus 11R 5G ,Sonic Black,256,4.5,5358,419,43853,44999,5000.0,6.7,,50.0,Excellent,40k-60k,Very Large
+369,POCO,POCO M4 5G ,Cool Blue,64,4.2,91755,6341,11999,15999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+370,SAREGAMA,SAREGAMA Carvaan Mobile Hindi Don M12 with 1000 Pre-Loaded Songs,Mystic Green,128,3.9,72,9,1750,14999,800.0,1.8,,50.0,Fair,0-20k,Small
+371,POCO,POCO M4 5G ,Cool Blue,128,4.2,46648,3318,13999,18999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+372,IQOO,IQOO Z7S 5G ,Pacific Night,128,4.3,621,33,20325,24999,4500.0,6.4,,64.0,Good,20k-40k,Large
+373,itel,itel iPower 430 Triple sim|2500 mAh Battery|Expandable Storage upto 32GB,Mystic Green,128,3.9,98,4,1561,1899,2500.0,2.4,,0.3,Fair,0-20k,Small
+374,Infinix,Infinix Hot 12 ,7° Purple,64,4.2,29548,1988,8999,12999,3600.0,6.82,MeditekHelioG37,50.0,Good,0-20k,Very Large
+375,Tecno,Tecno Camon 20 ,Predawn Black,256,4.3,215,23,15998,17999,5000.0,6.67,MediatekMT6769ZHelioG85,64.0,Good,0-20k,Very Large
+376,POCO,POCO M4 5G ,Power Black,128,4.2,46648,3318,13999,18999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+377,Kechaoda,Kechaoda K112,Mystic Green,128,4.0,23154,2338,1480,1899,3600.0,2.4,,0.3,Good,0-20k,Small
+378,LAVA,LAVA A5,Mystic Green,128,4.1,13295,1230,1549,14999,3600.0,2.4,,0.3,Good,0-20k,Small
+379,LAVA,LAVA A5,Mystic Green,128,4.1,13295,1230,1549,14999,3600.0,2.4,,0.3,Good,0-20k,Small
+380,LAVA,LAVA A5,Mystic Green,128,4.1,13295,1230,1410,1590,3600.0,2.4,,0.3,Good,0-20k,Small
+381,I,I Kall S1 Pro ,Jordy Blue,128,3.7,127,4,9999,11999,6000.0,6.8,OctaCore,13.0,Fair,0-20k,Very Large
+382,realme,realme 11 Pro+ 5G ,Astral Black,256,4.3,5709,634,29999,32999,3600.0,6.7,Dimensity7050,200.0,Good,20k-40k,Very Large
+383,realme,realme 11 Pro+ 5G ,Sunrise Beige,256,4.3,5709,634,29999,32999,3600.0,6.7,Dimensity7050,200.0,Good,20k-40k,Very Large
+384,SAMSUNG,SAMSUNG Guru Music 2,Mystic Green,128,4.3,208730,19031,2890,2899,800.0,6.5,,50.0,Good,0-20k,Large
+385,REDMI,REDMI Note 12 5G ,Frosted Green,256,4.1,1264,96,20999,23999,5000.0,6.67,QualcommSnapdragon4Gen1,48.0,Good,20k-40k,Very Large
+386,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+387,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+388,MOTOROLA,MOTOROLA g13 ,Matte Charcoal,128,4.0,41678,3814,9999,13999,5000.0,6.5,HelioG85,50.0,Good,0-20k,Large
+389,MOTOROLA,MOTOROLA Edge 30 ,Meteor Grey,128,4.1,7151,925,22999,34999,3600.0,6.55,QualcommSnapdragon778GPlus,50.0,Good,20k-40k,Large
+390,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+391,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+392,I,I Kall S1 Pro ,Jordy Blue,128,3.7,127,4,9999,11999,6000.0,6.8,OctaCore,13.0,Fair,0-20k,Very Large
+393,REDMI,REDMI Note 12 Pro+ 5G ,Iceberg Blue,256,4.2,14433,1507,29999,33999,3600.0,6.67,MediatekDimensity1080,200.0,Good,20k-40k,Very Large
+394,itel,itel Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,Mystic Green,128,4.1,128,6,1470,1899,2500.0,2.4,,0.3,Good,0-20k,Small
+395,LAVA,LAVA A5,Mystic Green,128,4.1,13295,1230,1549,14999,3600.0,2.4,,0.3,Good,0-20k,Small
+396,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+397,SAMSUNG,SAMSUNG Galaxy M14 5G ,Berry Blue,128,4.2,644,54,13749,17990,6000.0,6.6,,50.0,Good,0-20k,Very Large
+398,LAVA,LAVA A5,Mystic Green,128,4.1,13295,1230,1549,14999,3600.0,2.4,,0.3,Good,0-20k,Small
+399,realme,realme 9i 5G ,Soulful Blue,64,4.5,51975,2568,14999,17999,3600.0,6.6,MediatekDimensity8105G,50.0,Excellent,0-20k,Very Large
+400,itel,itel iPower 430 Triple sim|2500 mAh Battery|Expandable Storage upto 32GB,Mystic Green,128,3.9,98,4,1561,1899,2500.0,2.4,,0.3,Fair,0-20k,Small
+401,Micromax,Micromax X379+,Mystic Green,128,3.4,213,17,1040,1899,1000.0,1.77,,0.3,Bad,0-20k,Small
+402,realme,realme narzo 50i Prime ,Mint Green,32,4.2,300,12,6999,8999,5000.0,6.5,UnisocTigerT612(12nm),8.0,Good,0-20k,Large
+403,GFive,GFive U106,Mystic Green,128,3.5,2508,203,725,999,950.0,1.8,,0.3,Fair,0-20k,Small
+404,SAMSUNG,SAMSUNG Galaxy M34 5G without charger ,Midnight Blue,128,4.4,99,4,19700,24499,6000.0,6.5,,50.0,Good,0-20k,Large
+405,Snexian,Snexian GURU 312,Mystic Green,128,3.4,3640,254,799,999,800.0,1.8,,0.3,Bad,0-20k,Small
+406,OnePlus,OnePlus Nord 3 5G ,Misty Green,256,4.3,126,9,37822,37999,5000.0,6.74,,50.0,Good,20k-40k,Very Large
+407,REDMI,REDMI 10 ,Midnight Black,64,4.3,246435,14959,9999,14999,3600.0,6.7,QualcommSnapdragon680,50.0,Good,0-20k,Very Large
+408,itel,itel Power 440| 2500 mAh battery| Expandable Storage Upto 32GB,Mystic Green,128,4.1,128,6,1470,1899,2500.0,2.4,,0.3,Good,0-20k,Small
+409,vivo,vivo Y16 ,Drizzling Gold,64,4.3,3931,225,10999,15999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+410,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+411,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+412,KARBONN,KARBONN KX 29,Mystic Green,128,3.8,699,67,1499,1890,2700.0,2.4,,0.3,Fair,0-20k,Small
+413,realme,realme 9i 5G ,Soulful Blue,128,4.3,10207,688,16999,19999,3600.0,6.6,MediatekDimensity8105G,50.0,Good,0-20k,Very Large
+414,realme,realme 9i 5G ,Rocking Black,64,4.5,51975,2568,14999,17999,3600.0,6.6,MediatekDimensity8105G,50.0,Excellent,0-20k,Very Large
+415,DIZO,DIZO Star 300,Mystic Green,128,3.9,10793,1242,1299,1499,2550.0,1.77,SC6531E,0.3,Fair,0-20k,Small
+416,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+417,SAREGAMA,SAREGAMA Carvaan Mobile Tamil M21,Mystic Green,128,3.4,12,2,2490,14999,2500.0,2.4,,0.3,Bad,0-20k,Small
+418,Nokia,Nokia 105 SS 2023,Mystic Green,128,3.8,415,29,1475,1599,1000.0,1.8,,50.0,Fair,0-20k,Small
+419,I,I Kall K3310,Mystic Green,128,3.6,63914,7364,744,14999,1000.0,1.77,,0.3,Fair,0-20k,Small
+420,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+421,POCO,POCO M4 5G ,Power Black,128,4.2,46648,3318,13999,18999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+422,Tecno,Tecno Camon 20 ,Predawn Black,256,4.3,215,23,14939,17999,5000.0,6.67,MediatekMT6769ZHelioG85,64.0,Good,0-20k,Very Large
+423,SAMSUNG,SAMSUNG Galaxy A03 Core ,Onyx,32,4.1,4000,313,7190,10499,5000.0,6.5,,8.0,Good,0-20k,Large
+424,Infinix,Infinix Note 30 5G ,Interstellar Blue,128,4.1,1774,208,14999,17999,3600.0,6.78,Dimensity6080,108.0,Good,0-20k,Very Large
+425,Nokia,Nokia 105 DS,Mystic Green,128,4.2,18315,1809,1549,1699,1000.0,1.8,,50.0,Good,0-20k,Small
+426,KARBONN,KARBONN KX 29,Mystic Green,128,3.8,699,67,1549,1799,3000.0,2.4,,0.3,Fair,0-20k,Small
+427,GFive,GFive U106,Mystic Green,128,3.5,2508,203,719,1099,950.0,1.8,,0.3,Fair,0-20k,Small
+428,Micromax,Micromax X778,Mystic Green,128,3.9,3338,309,1472,1999,2700.0,2.4,,0.3,Fair,0-20k,Small
+429,Infinix,Infinix Note 30 5G ,Sunset Gold,256,4.2,13033,1833,15999,19999,3600.0,6.78,Dimensity6080,108.0,Good,0-20k,Very Large
+430,Tecno,Tecno Camon 20 ,Serenity Blue,256,4.3,215,23,15990,17999,5000.0,6.67,MediatekMT6769ZHelioG85,64.0,Good,0-20k,Very Large
+431,POCO,POCO X5 Pro 5G ,Horizon Blue,256,4.3,13980,1430,22999,28999,5000.0,6.67,QualcommSnapdragon778G,108.0,Good,20k-40k,Very Large
+432,Kechaoda,Kechaoda K112,Mystic Green,128,4.0,23154,2338,1470,1799,3600.0,2.4,,0.3,Good,0-20k,Small
+433,Infinix,Infinix Hot 12 ,7° Purple,64,4.2,29548,1988,8999,12999,3600.0,6.82,MeditekHelioG37,50.0,Good,0-20k,Very Large
+434,Infinix,Infinix Note 30 5G ,Interstellar Blue,256,4.2,13033,1833,15999,19999,3600.0,6.78,Dimensity6080,108.0,Good,0-20k,Very Large
+435,Infinix,Infinix Note 30 5G ,Magic Black,256,4.2,13033,1833,15999,19999,3600.0,6.78,Dimensity6080,108.0,Good,0-20k,Very Large
+436,realme,realme 9i 5G ,Rocking Black,128,4.3,10207,688,16999,19999,3600.0,6.6,MediatekDimensity8105G,50.0,Good,0-20k,Very Large
+437,I,I Kall S1 Pro ,Electric Purple,128,3.7,127,4,9999,11999,6000.0,6.8,OctaCore,13.0,Fair,0-20k,Very Large
+438,MOTOROLA,MOTOROLA g82 5G ,Meterorite Grey,128,4.1,7237,827,21499,25999,3600.0,6.6,QualcommSnapdragon6955G,50.0,Good,20k-40k,Very Large
+439,Infinix,Infinix Note 30 5G ,Magic Black,128,4.1,1774,208,14999,17999,3600.0,6.78,Dimensity6080,108.0,Good,0-20k,Very Large
+440,realme,realme Narzo 50i Prime ,Dark Blue,64,4.1,678,31,8695,9999,5000.0,6.5,UnisocT612processor,8.0,Good,0-20k,Large
+441,realme,realme Narzo 50i Prime ,Mint Green,64,4.1,678,31,8595,9999,5000.0,6.5,UnisocT612processor,8.0,Good,0-20k,Large
+442,LAVA,LAVA A1 2021,Mystic Green,128,4.1,2363,212,1149,1499,3600.0,1.77,,0.3,Good,0-20k,Small
+443,OnePlus,OnePlus 11R 5G ,Sonic Black,128,4.5,6323,561,39800,39999,5000.0,6.7,,50.0,Excellent,20k-40k,Very Large
+444,IQOO,IQOO Z7S 5G ,Norway Blue,128,4.3,621,33,20323,23999,4500.0,6.4,,64.0,Good,20k-40k,Large
+445,Tecno,Tecno Spark Go 2023 ,Orange,64,4.2,192,4,7768,9999,5000.0,6.56,,13.0,Good,0-20k,Large
+446,MOTOROLA,MOTOROLA Edge 30 Ultra ,Interstellar Black,256,4.2,1040,161,49999,74999,3600.0,6.67,QualcommSnapdragon8+Gen1,200.0,Good,40k-60k,Very Large
+447,REDMI,REDMI A1 ,Light Blue,32,4.2,8645,412,6899,8999,5000.0,6.52,,5.0,Good,0-20k,Large
+448,REDMI,REDMI Note 12 Pro+ 5G ,Arctic White,256,4.2,14433,1507,29999,33999,3600.0,6.67,MediatekDimensity1080,200.0,Good,20k-40k,Very Large
+449,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,1119,1499,850.0,1.44,,0.3,Good,0-20k,Small
+450,Jmax,Jmax J30,Mystic Green,128,3.6,490,33,699,1399,1050.0,1.8,,2.0,Fair,0-20k,Small
+451,REDMI,REDMI Note 12 ,Sunrise Gold,128,4.1,11885,1012,15999,20999,5000.0,6.67,Snapdragon685,50.0,Good,0-20k,Very Large
+452,POCO,POCO F5 5G ,Carbon Black,256,4.3,6068,879,27999,34999,3600.0,6.67,QualcommSnapdragon7+Gen2(4nm),64.0,Good,20k-40k,Very Large
+453,MOTOROLA,MOTOROLA Edge 30 ,Aurora Green,128,4.1,7151,925,22999,34999,3600.0,6.55,QualcommSnapdragon778GPlus,50.0,Good,20k-40k,Large
+454,Infinix,Infinix Hot 12 ,Turquoise Cyan,64,4.2,29548,1988,8999,12999,3600.0,6.82,MeditekHelioG37,50.0,Good,0-20k,Very Large
+455,Infinix,Infinix Hot 12 ,Polar Black,64,4.2,29548,1988,8999,12999,3600.0,6.82,MeditekHelioG37,50.0,Good,0-20k,Very Large
+456,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+457,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+458,Kechaoda,Kechaoda K66 The Music House 4,Mystic Green,128,3.9,18500,1338,1290,1999,400.0,1.8,,1.3,Fair,0-20k,Small
+459,LAVA,LAVA A1 2021,Mystic Green,128,4.1,2363,212,1149,1499,3600.0,1.77,,0.3,Good,0-20k,Small
+460,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+461,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+462,LAVA,LAVA A1 2021,Mystic Green,128,4.0,5244,419,1129,1449,3600.0,1.77,,0.3,Good,0-20k,Small
+463,vivo,vivo Y16 ,Steller Black,128,4.3,3931,225,12499,16999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+464,MOTOROLA,MOTOROLA g82 5G ,Meterorite Grey,128,4.1,7237,827,21499,25999,3600.0,6.6,QualcommSnapdragon6955G,50.0,Good,20k-40k,Very Large
+465,MOTOROLA,MOTOROLA Edge 30 Ultra ,Starlight White,256,4.2,1040,161,49999,74999,3600.0,6.67,QualcommSnapdragon8+Gen1,200.0,Good,40k-60k,Very Large
+466,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+467,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+468,REDMI,REDMI Note 11S ,Polar White,64,4.1,4007,302,13617,18999,5000.0,6.43,,108.0,Good,0-20k,Large
+469,vivo,vivo Y16 ,Steller Black,64,4.3,3931,225,10999,15999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+470,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+471,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+472,IQOO,IQOO Z7S 5G ,Norway Blue,128,4.3,621,33,20323,23999,4500.0,6.4,,64.0,Good,20k-40k,Large
+473,I,I Kall S1 Plus ,Golden,128,4.2,4047,295,9999,11999,6000.0,6.8,OctaCore,13.0,Good,0-20k,Very Large
+474,REDMI,REDMI 10 ,Caribbean Green,128,4.2,44289,2885,10999,16999,3600.0,6.7,QualcommSnapdragon680,50.0,Good,0-20k,Very Large
+475,DIZO,DIZO Star 300,Mystic Green,128,3.9,10793,1242,1344,1499,2550.0,1.77,SC6531E,0.3,Fair,0-20k,Small
+476,Jmax,Jmax J06,Mystic Green,128,3.6,110,7,699,1199,1100.0,1.8,,0.3,Fair,0-20k,Small
+477,Jmax,Jmax J06,Mystic Green,128,3.6,110,7,699,1299,1100.0,1.8,,0.3,Fair,0-20k,Small
+478,realme,realme GT 2 ,Paper White,128,4.3,16708,1850,24999,39999,3600.0,6.62,QualcommSnapdragon888,50.0,Good,20k-40k,Very Large
+479,realme,realme GT 2 ,Steel Black,128,4.3,16708,1850,24999,39999,3600.0,6.62,QualcommSnapdragon888,50.0,Good,20k-40k,Very Large
+480,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+481,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+482,KARBONN,KARBONN K9 Yuva,Mystic Green,128,3.9,936,64,1299,1490,2502.0,1.8,,2.0,Fair,0-20k,Small
+483,KARBONN,KARBONN K9 Yuva,Mystic Green,128,3.9,936,64,1294,1490,2502.0,1.8,,2.0,Fair,0-20k,Small
+484,Kechaoda,Kechaoda K10,Mystic Green,128,3.9,14693,940,1100,1277,300.0,0.66,,50.0,Fair,0-20k,Small
+485,itel,itel It2175 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.0,756,56,1097,1499,3600.0,1.8,,0.3,Good,0-20k,Small
+486,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+487,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+488,OPPO,OPPO A17 ,Midnight Black,64,4.3,9209,392,11999,14999,3600.0,6.56,MediatekHelioG35,50.0,Good,0-20k,Large
+489,KARBONN,KARBONN K9 Yuva,Mystic Green,128,3.9,936,64,1299,1490,2502.0,1.8,,2.0,Fair,0-20k,Small
+490,Micromax,Micromax X512,Mystic Green,128,3.9,204,8,995,1799,1750.0,1.77,,0.3,Fair,0-20k,Small
+491,OnePlus,OnePlus 11R 5G ,Sonic Black,128,4.5,6323,561,39610,39999,5000.0,6.7,,50.0,Excellent,20k-40k,Very Large
+492,Micromax,Micromax X412,Mystic Green,128,3.9,17594,1447,918,1499,800.0,1.77,,50.0,Fair,0-20k,Small
+493,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,1120,1599,850.0,1.44,,0.3,Good,0-20k,Small
+494,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,1104,1415,850.0,1.44,,0.3,Good,0-20k,Small
+495,LAVA,LAVA Flip,Mystic Green,128,4.1,2314,176,1990,2149,1200.0,2.4,,0.08,Good,0-20k,Small
+496,realme,realme 10 Pro+ 5G ,Hyperspace,128,4.4,21385,1815,22999,27999,5000.0,6.7,MediatekDimensity10805G,108.0,Good,20k-40k,Very Large
+497,APPLE,APPLE iPhone 13 ,Starlight,128,4.7,250949,12398,59999,69900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+498,KARBONN,KARBONN K531,Mystic Green,128,4.0,305,29,1390,1790,1800.0,2.4,,0.3,Good,0-20k,Small
+499,realme,realme 9i 5G ,Metallica Gold,128,4.3,10207,688,16999,19999,3600.0,6.6,MediatekDimensity8105G,50.0,Good,0-20k,Very Large
+500,KARBONN,KARBONN K531,Mystic Green,128,4.0,305,29,1399,1790,1800.0,2.4,,0.3,Good,0-20k,Small
+501,POCO,POCO M4 5G ,Yellow,128,4.2,46648,3318,13999,18999,3600.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+502,Tecno,Tecno Spark 10c ,Meta Black,128,4.0,181,8,9780,12499,5000.0,6.6,UnisocTigerT606,16.0,Good,0-20k,Very Large
+503,realme,realme 9i 5G ,Metallica Gold,64,4.5,51975,2568,14999,17999,3600.0,6.6,MediatekDimensity8105G,50.0,Excellent,0-20k,Very Large
+504,Infinix,Infinix Zero 5G 2023 TURBO ,Pearly White,256,4.0,3667,460,17999,24999,3600.0,6.78,MediatekDimensity1080,50.0,Good,0-20k,Very Large
+505,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,1095,1399,850.0,1.44,,0.3,Good,0-20k,Small
+506,REDMI,REDMI 10 ,Caribbean Green,64,4.3,246435,14959,9999,14999,3600.0,6.7,QualcommSnapdragon680,50.0,Good,0-20k,Very Large
+507,Tecno,Tecno Spark 10c ,Meta Blue,128,4.0,181,8,9900,12499,5000.0,6.6,UnisocTigerT606,16.0,Good,0-20k,Very Large
+508,Energizer,Energizer Hardcase E100,Mystic Green,128,3.8,2139,241,1199,1499,3600.0,2.4,MediatekMT6261D,0.3,Fair,0-20k,Small
+509,Micromax,Micromax X818,Mystic Green,128,3.9,3854,302,1469,2199,1450.0,2.8,,0.3,Fair,0-20k,Small
+510,Nokia,Nokia 110,Mystic Green,128,4.1,178,7,2195,2199,3600.0,1.77,Unisoc6531E,0.08,Good,0-20k,Small
+511,SAMSUNG,SAMSUNG Guru Music 2,Mystic Green,128,4.3,208730,19031,1850,1950,800.0,6.5,000208MHz,50.0,Good,0-20k,Large
+512,Micromax,Micromax X512,Mystic Green,128,4.0,1397,91,1049,1799,1750.0,1.77,,50.0,Good,0-20k,Small
+513,Nokia,Nokia 125 TA-1253 DS,Mystic Green,128,4.0,3587,233,2430,2599,3600.0,2.4,MediaTek,50.0,Good,0-20k,Small
+514,Kechaoda,Kechaoda K66 The Music House 4,Mystic Green,128,3.9,18500,1338,1290,1999,400.0,1.8,,1.3,Fair,0-20k,Small
+515,vivo,vivo V27 5G ,Noble Black,128,4.4,20336,2269,32999,36999,3600.0,6.5,MediatekDimensity72005G,50.0,Good,20k-40k,Large
+516,itel,itel iPower 430 Triple sim|2500 mAh Battery|Expandable Storage upto 32GB,Mystic Green,128,3.9,98,4,1479,1899,2500.0,2.4,,0.3,Fair,0-20k,Small
+517,realme,realme Narzo N55 ,Prime Black,64,4.2,1414,81,11165,12999,5000.0,6.72,,64.0,Good,0-20k,Very Large
+518,APPLE,APPLE iPhone 13 ,Midnight,128,4.7,250949,12398,59999,69900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+519,SAMSUNG,SAMSUNG Guru Music 2,Mystic Green,128,4.1,2854,187,2069,2499,800.0,6.5,NA0SingleCore208MHz,0.0,Good,0-20k,Large
+520,OPPO,OPPO A17k ,Blue,64,4.5,7095,187,9499,12999,5000.0,6.56,MediatekHelioP35,8.0,Excellent,0-20k,Large
+521,APPLE,APPLE iPhone 13 ,Pink,128,4.7,250949,12398,59999,69900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+522,SAMSUNG,SAMSUNG GALAXY M13 5G ,Midnight Blue,64,4.2,1100,62,12849,16999,5000.0,6.5,,50.0,Good,0-20k,Large
+523,Infinix,Infinix Zero 5G 2023 TURBO ,Submariner Black,256,4.0,3667,460,17999,24999,3600.0,6.78,MediatekDimensity1080,50.0,Good,0-20k,Very Large
+524,REDMI,REDMI 10 ,Caribbean Green,128,4.2,44289,2885,10999,16999,3600.0,6.7,QualcommSnapdragon680,50.0,Good,0-20k,Very Large
+525,LAVA,LAVA Spark i8,Mystic Green,128,4.1,7280,820,1899,14999,1200.0,2.8,,1.3,Good,0-20k,Small
+526,vivo,vivo Y16 ,Drizzling Gold,128,4.3,3931,225,12499,16999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+527,LAVA,LAVA Spark i8,Mystic Green,128,4.1,7280,820,1899,14999,1200.0,2.8,,1.3,Good,0-20k,Small
+528,vivo,vivo Y16 ,Steller Black,64,4.2,2811,150,10999,13999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+529,REDMI,REDMI Note 12 5G ,Mystique Blue,256,4.1,1264,96,20999,23999,5000.0,6.67,QualcommSnapdragon4Gen1,48.0,Good,20k-40k,Very Large
+530,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+531,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+532,realme,realme 9i 5G ,Soulful Blue,64,4.5,51975,2568,14999,17999,3600.0,6.6,MediatekDimensity8105G,50.0,Excellent,0-20k,Very Large
+533,Energizer,Energizer Hardcase E100,Mystic Green,128,3.8,2139,241,1199,1499,3600.0,2.4,MediatekMT6261D,0.3,Fair,0-20k,Small
+534,REDMI,REDMI A1+ ,Light Green,32,4.1,10706,513,6599,10999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+535,Micromax,Micromax X818,Mystic Green,128,3.9,3854,302,1999,14999,1450.0,2.8,,0.3,Fair,0-20k,Small
+536,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+537,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+538,Nokia,Nokia 105 SS 2023,Mystic Green,128,3.8,415,29,1475,1599,1000.0,1.8,,50.0,Fair,0-20k,Small
+539,Kechaoda,Kechaoda PRO,Mystic Green,128,4.2,6,0,1190,1599,400.0,1.8,,1.3,Good,0-20k,Small
+540,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+541,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+542,SAMSUNG,SAMSUNG Galaxy A03 Core ,Onyx,32,4.1,4000,313,7190,10499,5000.0,6.5,,8.0,Good,0-20k,Large
+543,LAVA,LAVA Flip,Mystic Green,128,4.1,2314,176,1990,2149,1200.0,2.4,,0.08,Good,0-20k,Small
+544,Tecno,Tecno Spark 10c ,Meta Blue,128,4.0,181,8,9900,12499,5000.0,6.6,UnisocTigerT606,16.0,Good,0-20k,Very Large
+545,Tecno,Tecno Spark 10c ,Meta Black,128,4.0,181,8,9780,12499,5000.0,6.6,UnisocTigerT606,16.0,Good,0-20k,Very Large
+546,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+547,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+548,Kechaoda,Kechaoda A27,Mystic Green,128,4.0,8084,576,999,1499,800.0,0.66,,50.0,Good,0-20k,Small
+549,vivo,vivo V27 5G ,Magic Blue,128,4.4,20336,2269,32999,36999,3600.0,6.5,MediatekDimensity72005G,50.0,Good,20k-40k,Large
+550,Kechaoda,Kechaoda K6,Mystic Green,128,3.9,718,54,1090,1199,1200.0,1.8,,0.3,Fair,0-20k,Small
+551,SAMSUNG,SAMSUNG GALAXY M13 5G ,?Stardust Brown,128,4.2,1447,94,14188,16999,5000.0,6.5,,50.0,Good,0-20k,Large
+552,realme,realme GT NEO 2 ,NEO Green,128,4.4,18368,2492,21999,34999,5000.0,6.62,QualcommSnapdragon870,64.0,Good,20k-40k,Very Large
+553,IQOO,IQOO Z7s 5G ,Pacific Night,128,4.3,621,33,20418,24999,4500.0,6.38,,64.0,Good,20k-40k,Large
+554,Tecno,Tecno Pop 7 pro ,?Endless Black,64,4.2,102,2,7429,8999,5000.0,6.56,,12.0,Good,0-20k,Large
+555,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+556,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+557,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+558,I,"I Kall King Talking, Contact icon and Auto Call Recording",Mystic Green,128,3.6,18411,1620,774,14999,1500.0,1.8,,0.3,Fair,0-20k,Small
+559,realme,realme 10 Pro+ 5G ,Nebula Blue,128,4.4,29159,2532,21999,25999,5000.0,6.7,MediatekDimensity10805G,108.0,Good,20k-40k,Very Large
+560,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+561,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+562,KARBONN,KARBONN KX 29,Mystic Green,128,3.8,699,67,1499,1890,2700.0,2.4,,0.3,Fair,0-20k,Small
+563,Tecno,Tecno Camon 20 ,Glacier Glow,256,4.3,215,23,15998,17999,5000.0,6.67,,64.0,Good,0-20k,Very Large
+564,Tecno,Tecno Pop 5 Pro ,Ice Blue,32,4.2,711,46,6960,10999,6000.0,6.52,HelioA22,8.0,Good,0-20k,Large
+565,realme,realme GT NEO 2 ,NEO Green,256,4.4,4625,648,25999,38999,5000.0,6.62,QualcommSnapdragon870,64.0,Good,20k-40k,Very Large
+566,itel,itel It2175 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.0,756,56,1199,1499,3600.0,1.8,,0.3,Good,0-20k,Small
+567,Kechaoda,Kechaoda 888,Mystic Green,128,4.1,270,23,1790,1999,3000.0,1.8,,50.0,Good,0-20k,Small
+568,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,1094,1200,850.0,1.44,,0.3,Good,0-20k,Small
+569,Snexian,Snexian GURU 312,Mystic Green,128,3.4,3640,254,670,999,800.0,1.8,,0.3,Bad,0-20k,Small
+570,APPLE,APPLE iPhone 14 Plus ,Midnight,128,4.6,14458,873,76999,89900,3600.0,6.7,,12.0,Excellent,60k-80k,Very Large
+571,itel,itel Power110Neo|2500 mAh battery| Expandable Storage Upto 32GB,Mystic Green,128,4.4,18,0,1309,1689,2500.0,1.8,,0.3,Good,0-20k,Small
+572,I,I Kall K3310,Mystic Green,128,3.6,63914,7364,744,849,1000.0,1.8,,0.3,Fair,0-20k,Small
+573,Snexian,Snexian GURU 312,Mystic Green,128,3.4,3640,254,670,999,800.0,1.8,,0.3,Bad,0-20k,Small
+574,SAMSUNG,SAMSUNG Galaxy A14 5G ,Black,128,4.0,3365,238,17999,20999,3600.0,6.6,SECS5E8535(Exynos1330),50.0,Good,0-20k,Very Large
+575,I,"I Kall King Talking, Contact icon and Auto Call Recording",Mystic Green,128,3.6,18411,1620,737,999,1000.0,1.8,,0.3,Fair,0-20k,Small
+576,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+577,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+578,HOTLINE,HOTLINE H310,Mystic Green,128,3.5,289,22,649,999,1000.0,1.8,,0.3,Fair,0-20k,Small
+579,OnePlus,OnePlus Nord 3 5G ,Misty Green,128,4.5,335,37,33595,33999,5000.0,6.74,,50.0,Excellent,20k-40k,Very Large
+580,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+581,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+582,vivo,vivo Y16 ,Drizzling Gold,64,4.2,2811,150,10999,13999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+583,SAMSUNG,SAMSUNG GURU MUSIC 2,Mystic Green,128,4.1,4549,346,2890,2899,800.0,6.5,000208MHz,0.0,Good,0-20k,Large
+584,Mi,Mi 10i ,Pacific Sunrise,128,4.3,1642,113,21990,27999,4820.0,6.67,Qualcomm®Snapdragon™750G,108.0,Good,20k-40k,Very Large
+585,HOTLINE,HOTLINE H310,Mystic Green,128,3.5,289,22,649,1099,1000.0,1.8,,0.3,Fair,0-20k,Small
+586,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+587,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+588,Good,Good One 5026,Mystic Green,128,3.9,1522,314,989,1999,2500.0,1.8,,2.0,Fair,0-20k,Small
+589,Cellecor,Cellecor X3,Mystic Green,128,3.5,1019,46,1022,1749,1000.0,1.8,,0.3,Fair,0-20k,Small
+590,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+591,SAREGAMA,SAREGAMA Carvaan Mobile Tamil M21,Mystic Green,128,3.4,12,2,2490,14999,2500.0,2.4,,0.3,Bad,0-20k,Small
+592,Cellecor,Cellecor X3,Mystic Green,128,3.5,1019,46,968,1749,1000.0,1.8,,0.3,Fair,0-20k,Small
+593,HOTLINE,HOTLINE CLASSIC,Mystic Green,128,4.2,4047,295,649,1099,800.0,1.77,,1.3,Good,0-20k,Small
+594,SAMSUNG,SAMSUNG Galaxy F14 5G ,GOAT Green,128,4.2,11885,887,12990,17490,6000.0,6.6,"Exynos1330,OctaCore",50.0,Good,0-20k,Very Large
+595,Mi,Mi 10i ,Midnight Black,128,4.3,3047,232,18990,24999,4820.0,6.67,Qualcomm®Snapdragon™750G,108.0,Good,0-20k,Very Large
+596,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+597,Cellecor,Cellecor X3,Mystic Green,128,3.5,1019,46,965,1749,1000.0,1.8,,0.3,Fair,0-20k,Small
+598,POCO,POCO F5 5G ,Snowstorm White,256,4.3,6068,879,27999,34999,3600.0,6.67,QualcommSnapdragon7+Gen2(4nm),64.0,Good,20k-40k,Very Large
+599,POCO,POCO F5 5G ,Electric Blue,256,4.3,6068,879,27999,34999,3600.0,6.67,QualcommSnapdragon7+Gen2(4nm),64.0,Good,20k-40k,Very Large
+600,POCO,POCO F5 5G ,Snowstorm White,256,4.3,6068,879,27999,34999,3600.0,6.67,QualcommSnapdragon7+Gen2(4nm),64.0,Good,20k-40k,Very Large
+601,itel,itel it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.0,1373,125,1298,1699,1200.0,2.4,,2.0,Good,0-20k,Small
+602,APPLE,APPLE iPhone 13 ,Midnight,128,4.7,250949,12398,59999,69900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+603,SAMSUNG,SAMSUNG Galaxy F14 5G ,GOAT Green,128,4.2,11885,887,12990,17490,6000.0,6.6,"Exynos1330,OctaCore",50.0,Good,0-20k,Very Large
+604,vivo,vivo Y56 5G ,Black Engine,128,4.2,1712,107,18999,24999,5000.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+605,Cellecor,Cellecor X3,Mystic Green,128,3.5,1019,46,1022,1749,1000.0,1.8,,0.3,Fair,0-20k,Small
+606,Cellecor,Cellecor X3,Mystic Green,128,3.5,1019,46,965,1749,1000.0,1.8,,0.3,Fair,0-20k,Small
+607,Cellecor,Cellecor X3,Mystic Green,128,3.5,1019,46,968,1749,1000.0,1.8,,0.3,Fair,0-20k,Small
+608,LAVA,LAVA LF9000,Mystic Green,128,4.2,158,8,1689,2099,2575.0,2.8,,50.0,Good,0-20k,Small
+609,Nokia,Nokia 105 DS,Mystic Green,128,4.2,18315,1809,1549,1699,1000.0,1.8,,50.0,Good,0-20k,Small
+610,KARBONN,KARBONN K9 Yuva,Mystic Green,128,3.9,936,64,1260,1390,2502.0,1.8,,2.0,Fair,0-20k,Small
+611,KARBONN,KARBONN K140 Pop,Mystic Green,128,3.9,5470,469,999,1090,1000.0,1.8,,0.3,Fair,0-20k,Small
+612,REDMI,REDMI 10 Power ,Power Black,128,4.2,4711,263,12487,18999,6000.0,6.7,,50.0,Good,0-20k,Very Large
+613,Nokia,Nokia 130 M DS 2023,Mystic Green,128,4.2,4047,295,2090,2199,1450.0,2.4,,50.0,Good,0-20k,Small
+614,Nokia,Nokia 110 ,2023),128,4.0,28,0,1929,2099,1000.0,1.8,,0.2,Good,0-20k,Small
+615,Nokia,Nokia 130M DS 2023,Mystic Green,128,4.2,4047,295,2149,2399,1450.0,2.4,,50.0,Good,0-20k,Small
+616,itel,itel it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.0,1373,125,1298,1699,1200.0,2.4,,2.0,Good,0-20k,Small
+617,Kechaoda,Kechaoda K55 Pro,Mystic Green,128,3.8,1633,86,1210,1499,400.0,1.8,,1.3,Fair,0-20k,Small
+618,vivo,vivo Y16 ,Drizzling Gold,128,4.3,3931,225,12499,16999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+619,realme,realme 9i 5G ,Metallica Gold,128,4.3,10207,688,16999,19999,3600.0,6.6,MediatekDimensity8105G,50.0,Good,0-20k,Very Large
+620,vivo,vivo Y56 5G ,Orange Shimmer,128,4.2,133,4,17999,22999,5000.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+621,vivo,vivo Y56 5G ,Black Engine,128,4.2,133,4,17999,22999,5000.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+622,realme,realme 9i 5G ,Metallica Gold,64,4.5,51975,2568,14999,17999,3600.0,6.6,MediatekDimensity8105G,50.0,Excellent,0-20k,Very Large
+623,LAVA,LAVA LF9000,Mystic Green,128,4.2,158,8,1689,2099,2575.0,2.8,,50.0,Good,0-20k,Small
+624,realme,realme 9i 5G ,Metallica Gold,64,4.5,51975,2568,14999,17999,3600.0,6.6,MediatekDimensity8105G,50.0,Excellent,0-20k,Very Large
+625,LAVA,LAVA LF9000,Mystic Green,128,4.2,158,8,1689,2099,2575.0,2.8,,50.0,Good,0-20k,Small
+626,OPPO,OPPO Reno10 Pro 5G ,Glossy Purple,256,4.3,3776,534,39999,44999,4600.0,6.7,Snapdragon778G5G,50.0,Good,20k-40k,Very Large
+627,OPPO,OPPO Reno10 Pro 5G ,Silvery Grey,256,4.3,3776,534,39999,44999,4600.0,6.7,Snapdragon778G5G,50.0,Good,20k-40k,Very Large
+628,Nokia,Nokia 105 DS ,2023) Charcoal,128,4.3,8,1,1549,1699,1000.0,1.8,,50.0,Good,0-20k,Small
+629,OPPO,OPPO A58 ,Dazzling Green,128,4.2,4047,295,14999,15499,5000.0,6.72,HelioG85,50.0,Good,0-20k,Very Large
+630,OPPO,OPPO A58 ,Glowing Black,128,4.2,4047,295,14999,15499,5000.0,6.72,HelioG85,50.0,Good,0-20k,Very Large
+631,Micromax,Micromax X809,Mystic Green,128,3.7,5657,492,1340,1999,1000.0,2.8,,1.0,Fair,0-20k,Small
+632,itel,itel IT5626,Mystic Green,128,4.0,1848,177,1899,2123,3600.0,2.8,SC6531C,0.3,Good,0-20k,Small
+633,I,I Kall K26,Mystic Green,128,3.5,593,90,749,1349,1000.0,1.77,,0.3,Fair,0-20k,Small
+634,MOTOROLA,MOTOROLA g72 ,Polar Blue,128,4.1,18846,2394,14999,21999,3600.0,6.55,MediatekHelioG99,108.0,Good,0-20k,Large
+635,SAMSUNG,SAMSUNG Galaxy A14 5G ,Black,128,4.0,3365,238,17999,20999,3600.0,6.6,SECS5E8535(Exynos1330),50.0,Good,0-20k,Very Large
+636,UiSmart,UiSmart Ui-06,Mystic Green,128,4.0,2030,192,1650,1999,1050.0,1.77,,0.01,Good,0-20k,Small
+637,UiSmart,UiSmart Ui-06,Mystic Green,128,4.0,2030,192,1625,1997,1050.0,1.77,,0.01,Good,0-20k,Small
+638,KARBONN,KARBONN KX 29,Mystic Green,128,3.8,699,67,1499,1890,2700.0,2.4,,0.3,Fair,0-20k,Small
+639,Kechaoda,Kechaoda K90,Mystic Green,128,3.6,501,51,1449,2499,5000.0,3.5,,1.3,Fair,0-20k,Small
+640,LAVA,LAVA A1 Josh Bol,Mystic Green,128,3.9,14,0,1099,1399,800.0,1.77,,50.0,Fair,0-20k,Small
+641,itel,itel P40 ,Luxurious Gold,32,4.0,48,5,6999,8299,6000.0,6.6,,13.0,Good,0-20k,Very Large
+642,Micromax,Micromax X412,Mystic Green,128,3.9,17594,1447,918,1499,800.0,1.77,,50.0,Fair,0-20k,Small
+643,REDMI,REDMI 12 ,Moonstone Silver,128,4.1,1753,172,11499,15999,5000.0,6.79,HelioG88,50.0,Good,0-20k,Very Large
+644,POCO,POCO F5 5G ,Carbon Black,256,4.3,1190,164,30999,39999,3600.0,6.67,QualcommSnapdragon7+Gen2(4nm),64.0,Good,20k-40k,Very Large
+645,OnePlus,OnePlus Nord 2T 5G ,Gray Shadow,128,4.4,11597,931,28990,28999,4500.0,6.7,,50.0,Good,20k-40k,Very Large
+647,I,I Kall K3310,Mystic Green,128,3.6,63914,7364,744,849,1000.0,1.8,,0.3,Fair,0-20k,Small
+648,realme,realme 10 Pro+ 5G ,Hyperspace,256,4.4,21385,1815,24999,28999,5000.0,6.7,MediatekDimensity10805G,108.0,Good,20k-40k,Very Large
+649,realme,realme 10 Pro+ 5G ,Dark Matter,256,4.4,21385,1815,24999,28999,5000.0,6.7,MediatekDimensity10805G,108.0,Good,20k-40k,Very Large
+650,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+651,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+652,Kechaoda,Kechaoda K55,Mystic Green,128,3.8,331,12,1160,1499,400.0,1.8,,1.3,Fair,0-20k,Small
+653,KARBONN,KARBONN K140 Pop,Mystic Green,128,3.9,5470,469,999,1090,1000.0,1.8,,0.3,Fair,0-20k,Small
+654,REDMI,REDMI Note 12 Pro 5G ,Glacier Blue,128,4.2,15993,1503,24999,29999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+655,SAMSUNG,SAMSUNG Guru Music 2,Mystic Green,128,4.3,208730,19031,1850,1950,3600.0,6.5,NA0SingleCore208MHz,0.0,Good,0-20k,Large
+656,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+657,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+658,SAREGAMA,SAREGAMA Carvaan Mobile Tamil M11,CM181) with 1500 pre-loaded songs,128,4.2,32,5,1990,14999,1800.0,1.8,,50.0,Good,0-20k,Small
+659,itel,itel it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.0,1373,125,1298,1699,1200.0,2.4,,2.0,Good,0-20k,Small
+660,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+661,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+662,vivo,vivo Y56 5G ,Orange Shimmer,128,4.2,1712,107,18999,24999,5000.0,6.58,MediatekDimensity700,50.0,Good,0-20k,Large
+663,Kechaoda,Kechaoda K33,Mystic Green,128,4.0,9018,582,1150,1499,800.0,1.4,,0.3,Good,0-20k,Small
+664,itel,itel it2163s,Mystic Green,128,3.9,214,12,1190,1499,1200.0,1.8,,0.3,Fair,0-20k,Small
+665,APPLE,APPLE iPhone 14 Plus ,Starlight,128,4.6,14458,873,76999,89900,3600.0,6.7,,12.0,Excellent,60k-80k,Very Large
+666,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+667,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+668,REDMI,REDMI Note 11 SE ,Thunder Purple,64,4.3,47437,2875,11499,16999,3600.0,6.43,MediatekHelioG95OctaCore,64.0,Good,0-20k,Large
+669,itel,itel P40 ,Luxurious Gold,32,4.0,48,5,6999,8299,6000.0,6.6,,13.0,Good,0-20k,Very Large
+670,Infinix,Infinix Zero 20 ,Glitter Gold,128,4.2,4618,557,15499,24999,3600.0,6.7,MediatekG99,108.0,Good,0-20k,Very Large
+671,KARBONN,KARBONN K110i,Mystic Green,128,3.6,308,32,941,1240,1000.0,1.8,,50.0,Fair,0-20k,Small
+672,itel,itel U30 keypad Mobile|1200 mAh battery|Expandable Storage Upto 32GB ,Blue,32,3.8,4,0,1079,1249,1200.0,1.8,,0.3,Fair,0-20k,Small
+673,itel,itel U30 keypad Mobile|1200 mAh battery|Expandable Storage Upto 32GB,Mystic Green,128,3.8,4,0,1079,1249,1200.0,1.8,,0.3,Fair,0-20k,Small
+674,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+675,OPPO,OPPO A17k ,Navy Blue,64,4.5,7095,187,9499,12999,5000.0,6.56,MediatekHelioP35,8.0,Excellent,0-20k,Large
+676,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+677,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+678,Nokia,Nokia 110 4G,Mystic Green,128,3.9,3499,326,2980,3499,1020.0,1.8,,0.8,Fair,0-20k,Small
+679,KARBONN,KARBONN K140 Pop,Mystic Green,128,3.9,5470,469,899,14999,1000.0,1.8,,0.3,Fair,0-20k,Small
+680,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+681,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+682,SAMSUNG,SAMSUNG Guru Music 2,Mystic Green,128,4.3,208730,19031,1850,1950,800.0,6.5,000208MHz,50.0,Good,0-20k,Large
+683,Cellecor,Cellecor D10,Mystic Green,128,3.7,3,1,1499,1849,2750.0,2.8,,0.8,Fair,0-20k,Small
+684,REDMI,REDMI Note 12 Pro 5G ,Stardust Purple,256,4.4,57,2,28999,32999,3600.0,6.67,MediatekDimensity1080,50.0,Good,20k-40k,Very Large
+685,Redmi,Redmi 9A Sport ,Coral Green,32,4.2,7059,500,7990,9499,5000.0,6.53,,13.0,Good,0-20k,Large
+686,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+687,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+688,I,I Kall Z18Pro ,Gilt,128,3.7,23,0,8799,10999,5000.0,6.56,OctaCore,13.0,Fair,0-20k,Large
+689,APPLE,APPLE iPhone 13 ,Pink,128,4.7,250949,12398,59999,69900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+690,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+691,SAREGAMA,SAREGAMA Carvaan Mobile Hindi Don M12 with 1000 Pre-Loaded Songs,Mystic Green,128,3.9,72,9,1750,14999,800.0,1.8,,50.0,Fair,0-20k,Small
+692,vivo,vivo Y16 ,Drizzling Gold,32,4.2,2811,150,10499,12999,3600.0,6.51,MediatekHelioP35,13.0,Good,0-20k,Large
+693,LAVA,LAVA Flip,Mystic Green,128,4.1,14488,1354,1911,2099,3600.0,2.4,MTK6261D,0.08,Good,0-20k,Small
+694,Infinix,Infinix Note 12 ,Force Black,128,4.2,13571,1267,12999,17999,3600.0,6.7,MediaTekHelioG88,50.0,Good,0-20k,Very Large
+695,Infinix,Infinix Note 12 ,Jewel Blue,128,4.2,13571,1267,12999,17999,3600.0,6.7,MediaTekHelioG88,50.0,Good,0-20k,Very Large
+696,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+697,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+698,LAVA,LAVA A1,Mystic Green,128,4.2,110313,11555,1220,1299,800.0,1.77,,0.3,Good,0-20k,Small
+699,Micromax,Micromax J2,Mystic Green,128,3.8,789,51,965,1549,800.0,1.77,,50.0,Fair,0-20k,Small
+700,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+701,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+702,Micromax,Micromax X702,Mystic Green,128,3.6,452,24,1134,1499,1000.0,2.4,,0.3,Fair,0-20k,Small
+703,REDMI,REDMI Note 12 Pro+ 5G ,Iceberg Blue,256,4.2,5593,616,32999,36999,3600.0,6.67,MediatekDimensity1080,200.0,Good,20k-40k,Very Large
+704,KARBONN,KARBONN K110i,Mystic Green,128,3.6,308,32,941,1240,1000.0,1.8,,50.0,Fair,0-20k,Small
+705,Kechaoda,Kechaoda K28,Mystic Green,128,4.1,3254,269,1270,1499,1700.0,2.4,,0.3,Good,0-20k,Small
+706,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+707,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+708,Lvix,Lvix L1 310,Mystic Green,128,3.3,170,11,620,1499,1000.0,1.77,,0.3,Bad,0-20k,Small
+709,Snexian,Snexian Rock,Mystic Green,128,4.0,12378,775,1499,1999,800.0,1.7,,0.3,Good,0-20k,Small
+710,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+711,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+712,REDMI,REDMI 12 5G ,Moonstone Silver,128,3.8,5,1,16490,17999,5000.0,6.79,,50.0,Fair,0-20k,Very Large
+713,Nokia,Nokia 5310 TA-1212 DS,Mystic Green,128,4.2,9331,661,3924,4299,3600.0,2.4,MT6260A,0.3,Good,0-20k,Small
+714,REDMI,REDMI 12 5G ,Jade Black,128,3.8,5,1,16500,17999,5000.0,6.79,,50.0,Fair,0-20k,Very Large
+715,Snexian,Snexian Rock,Mystic Green,128,4.0,12378,775,1215,1999,800.0,1.7,,0.3,Good,0-20k,Small
+716,itel,itel Power110Neo|2500 mAh battery| Expandable Storage Upto 32GB,Mystic Green,128,4.4,18,0,1309,1689,2500.0,1.8,,0.3,Good,0-20k,Small
+717,SAMSUNG,SAMSUNG Galaxy A34 5G ,Awesome Graphite,256,4.2,1763,155,32999,39499,3600.0,6.6,"BatteryDimensity1080,OctaCore",48.0,Good,20k-40k,Very Large
+718,Tecno,Tecno Spark 9 ,Glacier White,64,4.1,823,43,8400,11499,5000.0,6.6,,13.0,Good,0-20k,Very Large
+719,KARBONN,KARBONN K531,Mystic Green,128,4.0,305,29,1349,14999,1750.0,2.4,,0.3,Good,0-20k,Small
+720,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+721,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+722,a,a 10e,Mystic Green,128,4.4,19,4,1399,1449,800.0,1.8,,0.1,Good,0-20k,Small
+723,Infinix,Infinix HOT 12 Play ,Champagne Gold,64,4.3,118606,8490,8999,11999,3600.0,6.82,UnisocT610,13.0,Good,0-20k,Very Large
+724,Tecno,Tecno Pop 7 pro ,?Uyuni Blue,64,4.0,117,4,6549,7999,5000.0,6.56,,12.0,Good,0-20k,Large
+725,REDMI,REDMI Note 12 Pro+ 5G ,Arctic White,256,4.2,5593,616,32999,36999,3600.0,6.67,MediatekDimensity1080,200.0,Good,20k-40k,Very Large
+726,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+727,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+728,SAMSUNG,SAMSUNG Galaxy A34 5G ,Awesome Violet,256,4.2,1763,155,32999,39499,3600.0,6.6,"BatteryDimensity1080,OctaCore",48.0,Good,20k-40k,Very Large
+729,Infinix,Infinix HOT 12 Play ,Horizon Blue,64,4.3,118606,8490,8999,11999,3600.0,6.82,UnisocT610,13.0,Good,0-20k,Very Large
+730,SAREGAMA,SAREGAMA Carvaan Keypad Phone Bhojpuri M11,Mystic Green,128,4.7,9,4,1890,2199,1800.0,1.8,,50.0,Excellent,0-20k,Small
+731,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+732,SAMSUNG,SAMSUNG GALAXY M13 ,Aqua Green,64,4.2,4047,241,11690,14999,6000.0,6.6,,50.0,Good,0-20k,Very Large
+733,Micromax,Micromax X512,Mystic Green,128,3.9,10685,953,1095,1349,1750.0,1.77,,0.3,Fair,0-20k,Small
+734,Nokia,Nokia C32 ,Charcoal,128,3.8,209,25,9999,10499,5000.0,6.52,,50.0,Fair,0-20k,Large
+735,Lvix,Lvix L1 310,Mystic Green,128,3.3,170,11,620,1499,1000.0,1.77,,0.3,Bad,0-20k,Small
+736,IQOO,IQOO Neo 7 5G ,Interstellar Black,256,4.4,364,29,33398,38999,5000.0,6.78,,64.0,Good,20k-40k,Very Large
+737,Snexian,Snexian GURU 2163,Mystic Green,128,3.3,231,16,699,999,850.0,1.77,,1.0,Bad,0-20k,Small
+738,Kechaoda,Kechaoda K55 Pro,Mystic Green,128,3.8,1633,86,1200,1599,400.0,1.8,,1.3,Fair,0-20k,Small
+739,POCO,POCO M6 Pro 5G ,Forest Green,128,4.3,550,48,12999,16999,5000.0,6.79,Snapdragon4Gen2,50.0,Good,0-20k,Very Large
+740,I,"I Kall King Talking, Contact icon and Auto Call Recording",Mystic Green,128,3.6,18411,1620,844,999,1000.0,2.4,,0.3,Fair,0-20k,Small
+741,SAREGAMA,SAREGAMA Carvaan Mobile Hindi Don M12 with 1000 Pre-Loaded Songs,Mystic Green,128,3.9,72,9,1750,14999,800.0,1.8,,50.0,Fair,0-20k,Small
+742,IQOO,IQOO Neo 7 5G ,Frost Blue,256,4.4,364,29,33679,38999,5000.0,6.78,,64.0,Good,20k-40k,Very Large
+743,Kechaoda,Kechaoda K60,Mystic Green,128,4.1,1424,134,1789,2499,3600.0,2.4,,0.3,Good,0-20k,Small
+744,LAVA,LAVA GEM POWER,Mystic Green,128,4.1,116,11,1870,1999,2575.0,2.8,,2.0,Good,0-20k,Small
+745,Cellecor,Cellecor C9+,Mystic Green,128,4.2,12,0,949,1349,1000.0,1.8,,50.0,Good,0-20k,Small
+746,Snexian,Snexian ROCK 310,Mystic Green,128,3.4,267,19,699,1499,1000.0,1.77,,0.3,Bad,0-20k,Small
+747,REDMI,REDMI A1+ ,Light Blue,32,4.2,9993,412,6299,9999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+748,IQOO,IQOO Z6 Lite 5G ,Without Charger) ,128,4.2,1456,97,15402,18999,5000.0,6.68,,50.0,Good,0-20k,Very Large
+749,realme,realme GT NEO 2 ,NEO Green,256,4.4,4625,648,25999,38999,5000.0,6.62,QualcommSnapdragon870,64.0,Good,20k-40k,Very Large
+750,OPPO,OPPO A78 ,Aqua Green,128,4.4,34,2,17499,22999,5000.0,6.43,Snapdragon680,50.0,Good,0-20k,Large
+751,Kechaoda,Kechaoda K66 The Music House 4,Mystic Green,128,3.9,18500,1338,1136,14999,400.0,1.8,,1.3,Fair,0-20k,Small
+752,Kechaoda,Kechaoda K66 The Music House 4,Mystic Green,128,3.9,18500,1338,1150,14999,400.0,1.8,,1.3,Fair,0-20k,Small
+753,vivo,vivo Y100 5G ,Pacific Blue,128,4.3,2005,137,23999,29999,3600.0,6.38,MediatekDimensity900,64.0,Good,20k-40k,Large
+754,realme,realme GT NEO 2 ,NEO Black,128,4.4,18368,2492,21999,34999,5000.0,6.62,QualcommSnapdragon870,64.0,Good,20k-40k,Very Large
+755,itel,itel A60 ,DawnBlue,32,4.1,208,15,5978,7199,5000.0,6.6,Unisoc,8.0,Good,0-20k,Very Large
+756,realme,realme GT NEO 2 ,NEO Green,128,4.4,18368,2492,21999,34999,5000.0,6.62,QualcommSnapdragon870,64.0,Good,20k-40k,Very Large
+757,Tecno,Tecno Pop 7 pro ,?Endless Black,64,4.2,102,2,7429,8999,5000.0,6.56,,12.0,Good,0-20k,Large
+758,GFive,GFive Rose,Mystic Green,128,3.6,107,9,999,1499,3000.0,2.4,,0.3,Fair,0-20k,Small
+759,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+760,Infinix,Infinix Zero 20 ,DEEP GRAY,128,4.2,4618,557,15499,24999,3600.0,6.7,MediatekG99,108.0,Good,0-20k,Very Large
+761,Infinix,Infinix Zero 20 ,Green Fantasy,128,4.2,4618,557,15499,24999,3600.0,6.7,MediatekG99,108.0,Good,0-20k,Very Large
+762,LAVA,LAVA 34 Ultra,Mystic Green,128,4.1,1960,198,1599,14999,3600.0,2.4,,0.8,Good,0-20k,Small
+763,Micromax,Micromax X809,Mystic Green,128,3.7,5657,492,1340,1999,1000.0,2.8,,1.0,Fair,0-20k,Small
+764,I,I Kall K130,Mystic Green,128,3.3,189,7,737,999,1000.0,1.8,,0.3,Bad,0-20k,Small
+765,Xiaomi,Xiaomi 11i Hypercharge 5G ,Purple Mist,128,4.2,6858,743,29999,31999,3600.0,6.67,MediatekDimensity920,108.0,Good,20k-40k,Very Large
+766,REDMI,REDMI 11 Prime ,Playful Green,64,4.3,5266,260,8999,14999,5000.0,6.58,HelioG99,50.0,Good,0-20k,Large
+767,Peace,Peace P99,Mystic Green,128,3.5,39,4,1399,1699,1800.0,2.4,,0.3,Fair,0-20k,Small
+768,itel,itel P40 ,Force Black,32,4.0,48,5,6799,8299,6000.0,6.6,,13.0,Good,0-20k,Very Large
+769,Kechaoda,Kechaoda K66 The Music House 4,Mystic Green,128,3.9,18500,1338,1136,14999,400.0,1.8,,1.3,Fair,0-20k,Small
+770,SAMSUNG,SAMSUNG GALAXY M13 ,Midnight Blue,64,4.2,4047,241,10918,14999,6000.0,6.6,,50.0,Good,0-20k,Very Large
+771,Tecno,Tecno Pova 3 ,Tech Silver,128,4.1,484,24,13999,15999,7000.0,6.9,MediaTekHelioG88,50.0,Good,0-20k,Very Large
+772,KARBONN,KARBONN K310i,Mystic Green,128,3.6,383,30,920,14999,800.0,1.8,,50.0,Fair,0-20k,Small
+773,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+774,Snexian,Snexian ROCK 310,Mystic Green,128,3.4,267,19,680,1499,1000.0,1.77,,0.3,Bad,0-20k,Small
+775,REDMI,REDMI 12C ,Mint Green,64,4.2,1945,112,9190,10999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+776,POCO,POCO M6 Pro 5G ,Power Black,128,4.3,550,48,12999,16999,5000.0,6.79,Snapdragon4Gen2,50.0,Good,0-20k,Very Large
+777,I,I Kall K100,Mystic Green,128,3.3,7189,645,719,999,1000.0,1.8,,50.0,Bad,0-20k,Small
+778,Jmax,Jmax Super 2,Mystic Green,128,4.1,16,6,759,1299,1100.0,1.8,,0.3,Good,0-20k,Small
+779,GFive,GFive Rose,Mystic Green,128,3.6,107,9,999,1499,3000.0,2.4,,0.3,Fair,0-20k,Small
+780,Micromax,Micromax J2,Mystic Green,128,3.8,789,51,965,1549,800.0,1.77,,50.0,Fair,0-20k,Small
+781,Cellecor,Cellecor E8 Plus,Mystic Green,128,3.6,330,21,1302,1949,2750.0,2.4,,0.8,Fair,0-20k,Small
+782,realme,realme Narzo 50A ,Oxygen Blue,64,4.4,343351,22186,11498,12999,6000.0,6.5,MediaTekHelioG85,50.0,Good,0-20k,Large
+783,realme,realme C25s ,Watery Grey,128,4.4,52855,3017,9999,11999,6000.0,6.5,MediaTekHelioG85,13.0,Good,0-20k,Large
+784,Cellecor,Cellecor X9,Mystic Green,128,3.3,6,1,1424,1849,2750.0,2.4,,0.8,Bad,0-20k,Small
+785,itel,itel A60 ,VertMenthe,32,4.1,208,15,5978,7199,5000.0,6.6,Unisoc,8.0,Good,0-20k,Very Large
+786,Nokia,Nokia 110 Dual Sim 2022,Mystic Green,128,4.1,271,15,2099,14999,1000.0,1.77,,1.0,Good,0-20k,Small
+787,REDMI,REDMI A2 ,Classic Black,32,4.1,298,19,6725,8999,5000.0,6.52,MediatekHelioG36,8.0,Good,0-20k,Large
+788,realme,realme C30s ,Stripe Blue,32,4.4,6519,231,6999,9999,3600.0,6.5,UnisocSC9863A/UnisocSC9863A1,8.0,Good,0-20k,Large
+789,REDMI,REDMI 12C ,Royal Blue,64,4.2,1945,112,8799,10999,5000.0,6.71,,50.0,Good,0-20k,Very Large
+790,vivo,vivo Y100 5G ,Metal Black,128,4.3,2005,137,23999,29999,3600.0,6.38,MediatekDimensity900,64.0,Good,20k-40k,Large
+791,Infinix,Infinix Smart 6 ,Polar Black,64,4.3,33059,2216,6999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+792,APPLE,APPLE iPhone 14 Plus ,Purple,128,4.6,14458,873,76999,89900,3600.0,6.7,,12.0,Excellent,60k-80k,Very Large
+793,POCO,POCO F5 5G ,Electric Blue,256,4.3,1190,164,30999,39999,3600.0,6.67,QualcommSnapdragon7+Gen2(4nm),64.0,Good,20k-40k,Very Large
+794,Infinix,Infinix Smart 6 ,Heart Of Ocean,64,4.3,33059,2216,6999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+795,itel,itel Ace2 lite Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,Mystic Green,128,3.8,16,0,915,1199,1000.0,1.8,,50.0,Fair,0-20k,Small
+796,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+797,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+798,Micromax,Micromax X809,Mystic Green,128,3.7,5657,492,1340,1999,1000.0,2.8,,1.0,Fair,0-20k,Small
+799,Kechaoda,Kechaoda K66 The Music House 4,Mystic Green,128,3.9,18500,1338,1150,14999,400.0,1.8,,1.3,Fair,0-20k,Small
+800,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+801,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+802,I,I Kall K3310,Mystic Green,128,3.6,63914,7364,749,999,1000.0,1.77,,0.3,Fair,0-20k,Small
+803,MOTOROLA,MOTOROLA g31 ,Meteorite Grey,64,4.2,41432,4410,11999,13999,3600.0,6.4,MediatekHelioG85,50.0,Good,0-20k,Large
+804,Cellecor,Cellecor X50+,Mystic Green,128,3.6,189,15,1429,2199,2750.0,2.8,,0.8,Fair,0-20k,Small
+805,Kechaoda,Kechaoda K60,Mystic Green,128,4.1,1424,134,1849,1999,3600.0,2.4,,0.3,Good,0-20k,Small
+806,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+807,MOTOROLA,MOTOROLA g42 ,Atlantic Green,64,4.2,10298,1058,12499,16999,3600.0,6.402,QualcommSnapdragon680,50.0,Good,0-20k,Large
+808,Kechaoda,Kechaoda A8,Mystic Green,128,3.8,359,37,1499,14999,2500.0,3.5,,0.3,Fair,0-20k,Small
+809,XTOUCH,XTOUCH F20 feature phone , Not support Jio SIM ),128,3.3,71,10,1249,2999,1000.0,2.4,,1.3,Bad,0-20k,Small
+810,Peace,Peace P99,Mystic Green,128,3.5,39,4,1399,1699,1800.0,2.4,,0.3,Fair,0-20k,Small
+811,realme,realme Narzo 50A ,Oxygen Blue,128,4.4,343351,22186,12999,13999,6000.0,6.5,MediaTekHelioG85,50.0,Good,0-20k,Large
+812,KARBONN,KARBONN KU3+,Mystic Green,128,4.2,4047,295,999,1340,1000.0,2.4,,0.3,Good,0-20k,Small
+813,Mi,Mi 10T ,Cosmic Black,128,4.2,4064,567,21999,39999,3600.0,6.67,QualcommSnapdragon865,64.0,Good,20k-40k,Very Large
+814,APPLE,APPLE iPhone 11 ,White,128,4.6,199419,11368,44999,48900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+815,IQOO,IQOO Z6 Lite 5G ,Without Charger) ,128,4.2,1456,97,15402,18999,5000.0,6.68,,50.0,Good,0-20k,Very Large
+816,MOTOROLA,MOTOROLA E7 Power ,Coral Red,32,4.0,10463,1009,6999,10999,5000.0,6.51,MediaTekHelioG25,13.0,Good,0-20k,Large
+817,MarQ,MarQ by Flipkart M70 Shakti,Mystic Green,128,3.9,4480,544,1599,14999,3600.0,2.4,,0.3,Fair,0-20k,Small
+818,Tecno,Tecno Spark 9 ,Sky Mirror,128,4.0,1056,60,10995,13499,5000.0,6.6,MediaTekHelioG37OctaCore,13.0,Good,0-20k,Very Large
+819,realme,realme C33 2023 ,Sandy Gold,128,4.4,20771,735,10499,13999,3600.0,6.5,UnisocT612,50.0,Good,0-20k,Large
+820,SAMSUNG,SAMSUNG Galaxy A14 ,Silver,64,3.9,38,7,13499,16499,5000.0,6.6,"Exynos850,OctaCore",50.0,Fair,0-20k,Very Large
+821,realme,realme XT ,Pearl White,64,4.5,112016,12429,16890,16999,4000.0,6.4,Qualcomm712,64.0,Excellent,0-20k,Large
+822,realme,realme C33 2023 ,Night Sea,128,4.4,20771,735,10499,13999,3600.0,6.5,UnisocT612,50.0,Good,0-20k,Large
+823,OPPO,OPPO A17K ,Navy Blue,64,4.5,7095,187,9379,10999,5000.0,6.56,MediatekHelioG35,8.0,Excellent,0-20k,Large
+824,Cellecor,Cellecor R3+,Mystic Green,128,3.7,441,23,1046,1449,1000.0,1.77,,0.8,Fair,0-20k,Small
+825,OnePlus,OnePlus 10R ,Forest Green,128,4.3,3335,213,31600,38999,5000.0,6.7,,50.0,Good,20k-40k,Very Large
+826,SAMSUNG,SAMSUNG Galaxy M33 5G ,Emerald Brown,128,4.2,11718,851,16990,24999,6000.0,6.59,,50.0,Good,0-20k,Large
+827,POCO,POCO X4 Pro 5G ,Laser Black,128,4.2,23490,2267,17999,25999,3600.0,6.67,QualcommSnapdragon6955G,64.0,Good,0-20k,Very Large
+828,realme,realme C30s ,Stripe Blue,64,4.2,7073,403,8499,11999,3600.0,6.5,UnisocSC9863A/UnisocSC9863A1,8.0,Good,0-20k,Large
+829,REDMI,REDMI Note 11 SE ,Bifrost Blue,64,4.3,47437,2875,13490,16999,3600.0,6.43,MediatekHelioG95OctaCore,64.0,Good,0-20k,Large
+830,Kechaoda,Kechaoda K33,Mystic Green,128,4.0,9018,582,1110,1599,800.0,1.4,,0.3,Good,0-20k,Small
+831,realme,realme C30s ,Stripe - Black,32,4.4,6519,231,7189,9999,5000.0,6.5,UnisocSC9863A/UnisocSC9863A1,8.0,Good,0-20k,Large
+832,itel,itel Power110Neo| 2500 mAh battery| Expandable Storage Upto 32GB,Mystic Green,128,4.7,6,1,1349,1689,2500.0,1.8,,0.3,Excellent,0-20k,Small
+833,Nokia,Nokia 110 TA-1302 DS,Mystic Green,128,4.0,25627,1999,1899,2099,800.0,1.77,,1.0,Good,0-20k,Small
+834,Jmax,Jmax J32,Mystic Green,128,3.7,419,33,699,1199,1050.0,1.8,,2.0,Fair,0-20k,Small
+835,itel,itel it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.0,1373,125,1298,1699,3600.0,2.4,SC6531E,2.0,Good,0-20k,Small
+837,KARBONN,KARBONN K110i,Mystic Green,128,3.6,308,32,949,960,3600.0,1.8,,50.0,Fair,0-20k,Small
+838,MOTOROLA,MOTOROLA Edge 40 ,Viva Magenta,256,4.2,18060,2731,29999,34999,4400.0,6.5,Dimensity8020,50.0,Good,20k-40k,Large
+839,itel,itel P40 ,Dreamy Blue,32,4.0,48,5,6598,8299,6000.0,6.6,,13.0,Good,0-20k,Very Large
+841,itel,itel It2171 Keypad Mobile|1000 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.1,6498,516,1125,1399,1000.0,1.8,,0.3,Good,0-20k,Small
+842,REDMI,REDMI Note 11 ,Horizon Blue,64,4.2,2495,176,12980,18999,5000.0,6.43,,50.0,Good,0-20k,Large
+843,Tecno,Tecno Pova 3 ,Tech Silver,64,4.2,1985,131,10644,14499,7000.0,6.9,MediaTekHelioG88,50.0,Good,0-20k,Very Large
+844,itel,itel Power110Neo| 2500 mAh battery| Expandable Storage Upto 32GB,Mystic Green,128,4.7,6,1,1349,1689,2500.0,1.8,,0.3,Excellent,0-20k,Small
+845,itel,itel it5026 Keypad Mobile|1200 mAh battery|Expandable Storage upto 32GB,Mystic Green,128,4.0,1373,125,1298,1699,3600.0,2.4,SC6531E,2.0,Good,0-20k,Small
+846,REDMI,REDMI 10 ,Shadow Black,64,4.3,246435,14959,9999,14999,3600.0,6.7,QualcommSnapdragon680,50.0,Good,0-20k,Very Large
+847,Infinix,Infinix HOT 12 Play ,Racing Black,64,4.3,118606,8490,8999,11999,3600.0,6.82,UnisocT610,13.0,Good,0-20k,Very Large
+848,SAMSUNG,SAMSUNG Galaxy S20 FE 5G ,Cloud Navy,128,4.2,2191,138,28999,65999,4500.0,6.5,,12.0,Good,20k-40k,Large
+849,REDMI,REDMI Note 12 Pro+ 5G ,Obsidian Black,256,4.2,5593,616,32999,36999,3600.0,6.67,MediatekDimensity1080,200.0,Good,20k-40k,Very Large
+850,Micromax,Micromax J2,Mystic Green,128,3.8,789,51,969,1549,800.0,1.77,,50.0,Fair,0-20k,Small
+851,Kechaoda,Kechaoda K1,Mystic Green,128,4.0,423,34,1299,1999,2600.0,2.8,,1.3,Good,0-20k,Small
+852,Cellecor,Cellecor C9+,Mystic Green,128,4.2,12,0,999,1349,1000.0,1.8,,50.0,Good,0-20k,Small
+853,KARBONN,KARBONN K531,Mystic Green,128,4.0,305,29,1349,14999,1800.0,2.4,,0.3,Good,0-20k,Small
+854,realme,realme C33 2023 ,Aqua Blue,128,4.4,20771,735,10499,13999,3600.0,6.5,UnisocT612,50.0,Good,0-20k,Large
+855,IAIR,"IAIR Basic Feature Dual Sim Mobile Phone with 2800mAh Battery, 1.77 inch Display Screen, 0.8 mp Camera...",Mystic Green,128,3.6,85,29,1220,1449,2800.0,1.77,,0.8,Fair,0-20k,Small
+856,Nokia,Nokia 106 4G,Mystic Green,128,4.0,27,4,2649,2999,1450.0,1.77,,50.0,Good,0-20k,Small
+857,Nokia,Nokia 110 DS,Mystic Green,128,4.0,911,56,1885,2099,800.0,1.77,,1.0,Good,0-20k,Small
+858,itel,itel A25 New ,Starry Black,16,3.8,37,4,4325,5999,3020.0,6.5,,5.0,Fair,0-20k,Large
+859,itel,itel Muzik 110| 1900 mAh battery| Expandable Storage upto 32GB,Mystic Green,128,4.1,463,44,1270,1449,3600.0,1.8,SC6531E,0.3,Good,0-20k,Small
+860,Snexian,Snexian BOLD 777,Mystic Green,128,3.6,75,5,999,1499,850.0,0.6,,50.0,Fair,0-20k,Small
+861,Micromax,Micromax X702,Mystic Green,128,3.6,452,24,1170,1699,1000.0,2.4,,0.3,Fair,0-20k,Small
+862,SAMSUNG,SAMSUNG Galaxy M33 5G ,Emarld Brown,128,4.2,11718,851,9999,14999,6000.0,6.6,,50.0,Good,0-20k,Very Large
+863,Kechaoda,Kechaoda K33,Mystic Green,128,4.0,9018,582,1110,1599,800.0,1.4,,0.3,Good,0-20k,Small
+864,Micromax,Micromax X702,Mystic Green,128,3.6,452,24,1170,1699,1000.0,2.4,,0.3,Fair,0-20k,Small
+865,realme,realme C30s ,Stripe Black,32,4.4,6519,231,6999,9999,3600.0,6.5,UnisocSC9863A/UnisocSC9863A1,8.0,Good,0-20k,Large
+866,SAMSUNG,SAMSUNG Galaxy M33 5G ,Emarld Brown,128,4.2,11718,851,9999,14999,6000.0,6.6,,50.0,Good,0-20k,Very Large
+867,Nokia,Nokia 105 DS ,2023) Terracotta Red,128,4.3,3,0,1619,1699,1000.0,1.8,,50.0,Good,0-20k,Small
+868,REDMI,REDMI 10 ,Sunrise Orange,64,4.3,246435,14959,9999,14999,3600.0,6.7,QualcommSnapdragon680,50.0,Good,0-20k,Very Large
+869,Nokia,Nokia 110 DS,Mystic Green,128,4.0,911,56,1885,2099,800.0,1.77,,1.0,Good,0-20k,Small
+870,REDMI,REDMI Note 11 ,Horizon Blue,64,4.2,2495,176,12980,18999,5000.0,6.43,,50.0,Good,0-20k,Large
+871,POCO,POCO C31 ,Shadow Gray,64,4.3,227386,14053,9499,11999,3600.0,6.53,MediaTekHelioG35,13.0,Good,0-20k,Large
+872,KARBONN,KARBONN K140 Pop,Mystic Green,128,3.9,5470,469,1099,1132,1000.0,1.8,,0.3,Fair,0-20k,Small
+873,REDMI,REDMI Note 11 ,Space Black,128,4.2,2495,176,15790,19999,5000.0,6.43,,50.0,Good,0-20k,Large
+874,REDMI,REDMI Note 11 ,Starburst White,64,4.2,2495,176,13420,18999,5000.0,6.43,,50.0,Good,0-20k,Large
+875,realme,realme 9i ,Prism Black,128,4.5,132193,7738,13499,16999,3600.0,6.6,QualcommSnapdragon680(SM6225),50.0,Excellent,0-20k,Very Large
+876,GFive,GFive C2 Black,Mystic Green,128,3.4,256,16,988,1999,400.0,1.77,,0.3,Bad,0-20k,Small
+877,Cellecor,Cellecor E8 Plus,Mystic Green,128,3.6,330,21,1303,1949,2750.0,2.4,,0.8,Fair,0-20k,Small
+878,itel,itel Vision3 ,Deep Ocean Black,32,4.2,586,34,6048,7999,5000.0,6.6,,8.0,Good,0-20k,Very Large
+879,REDMI,REDMI Note 11 SE ,Space Black,64,4.3,47437,2875,14990,16999,3600.0,6.43,MediatekHelioG95OctaCore,64.0,Good,0-20k,Large
+880,Redmi,Redmi 9A Sport ,Coral Green,32,4.2,7059,500,7269,9399,5000.0,6.53,,13.0,Good,0-20k,Large
+881,Snexian,Snexian Guru 106,Mystic Green,128,3.3,4622,362,699,1499,850.0,6.5,,1.0,Bad,0-20k,Large
+882,REDMI,REDMI 10 Prime 2022 ,Phantom Black,64,4.2,3832,247,11988,14999,6000.0,6.5,,50.0,Good,0-20k,Large
+883,GFive,GFive i2,Mystic Green,128,3.6,1685,167,899,1499,2500.0,1.8,,0.3,Fair,0-20k,Small
+884,REDMI,REDMI A2 ,Classic Black,32,4.1,298,19,6799,8999,5000.0,6.52,,8.0,Good,0-20k,Large
+885,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+886,REDMI,REDMI 10A SPORT ,SLATE GREY,128,4.0,1330,84,10999,13999,5000.0,6.53,,13.0,Good,0-20k,Large
+887,Snexian,Snexian ROCK R7,Mystic Green,128,3.7,640,56,999,1999,1000.0,1.8,,0.3,Fair,0-20k,Small
+888,Snexian,Snexian GURU 106,Mystic Green,128,3.3,4622,362,699,1449,850.0,6.5,,1.0,Bad,0-20k,Large
+889,Snexian,Snexian ROCK R7,Mystic Green,128,3.7,640,56,799,1199,1000.0,1.8,,0.3,Fair,0-20k,Small
+890,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+891,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+892,vivo,vivo Y36 ,Vibrant Gold,128,4.1,216,9,16999,21999,5000.0,6.64,Snapdragon680,50.0,Good,0-20k,Very Large
+893,APPLE,APPLE iPhone 14 ,Purple,256,4.6,46001,1748,77999,89900,3600.0,6.1,,12.0,Excellent,60k-80k,Average
+894,vivo,vivo Y22 ,Metaverse Green,128,4.3,1663,95,14499,18999,3600.0,6.55,MediatekHelioG70,50.0,Good,0-20k,Large
+895,MarQ,MarQ by Flipkart M70 Shakti,Mystic Green,128,3.9,4480,544,1599,14999,3600.0,2.4,,0.3,Fair,0-20k,Small
+896,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+897,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+898,OnePlus,OnePlus 10R ,Sierra Black,128,4.3,3335,213,28999,38999,5000.0,6.7,,50.0,Good,20k-40k,Very Large
+899,SAMSUNG,SAMSUNG Galaxy Z Flip5 ,Cream,256,4.5,78,9,99999,102999,3700.0,6.7,Snapdragon8Gen2,12.0,Excellent,greater 80k,Very Large
+900,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+901,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+902,LAVA,LAVA A1,Mystic Green,128,4.2,110313,11555,899,1049,800.0,1.77,,0.3,Good,0-20k,Small
+903,GFive,GFive C3 card,Mystic Green,128,3.7,622,37,1089,14999,800.0,1.8,,0.3,Fair,0-20k,Small
+904,Snexian,Snexian BOLD 2K,Mystic Green,128,3.5,110,3,980,1499,800.0,1.44,,1.3,Fair,0-20k,Small
+905,LAVA,LAVA A1,Mystic Green,128,4.2,20614,1923,1159,14999,800.0,1.77,,0.3,Good,0-20k,Small
+906,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+907,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+908,Nokia,Nokia 110 ,2023),128,4.0,28,0,2039,2099,1000.0,1.8,,0.2,Good,0-20k,Small
+909,LAVA,LAVA Flip,Mystic Green,128,4.1,2314,176,2090,2149,1200.0,2.4,,0.08,Good,0-20k,Small
+910,APPLE,APPLE iPhone 11 ,White,64,4.6,199419,11368,41999,43900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+911,itel,itel Vision3 ,Multi Green,32,4.2,586,34,5990,7999,5000.0,6.6,,8.0,Good,0-20k,Very Large
+912,I,I Kall K130,Mystic Green,128,3.3,189,7,737,999,1000.0,1.8,,0.3,Bad,0-20k,Small
+913,I,I Kall K3310,Mystic Green,128,3.6,63914,7364,744,769,800.0,1.8,,0.3,Fair,0-20k,Small
+914,REDMI,REDMI 12 ,Pastel Blue,128,4.1,1753,172,11499,15999,5000.0,6.79,HelioG88,50.0,Good,0-20k,Very Large
+915,Kechaoda,Kechaoda K28 PRO,Mystic Green,128,3.7,30,4,1349,1999,3000.0,2.4,,0.3,Fair,0-20k,Small
+916,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+917,SAMSUNG,SAMSUNG Galaxy F23 5G ,Copper Blush,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+918,Mi,Mi 10T ,Lunar Silver,128,4.1,3680,466,23499,42999,3600.0,6.67,QualcommSnapdragon865,64.0,Good,20k-40k,Very Large
+919,vivo,vivo Y16 ,Steller Black,64,4.3,3931,225,11999,14999,5000.0,6.51,,13.0,Good,0-20k,Large
+920,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.3,206030,15708,15999,23999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+921,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.3,1153,107,18999,24499,3600.0,6.5,Exynos1280,50.0,Good,0-20k,Large
+922,Cellecor,Cellecor X50+,Mystic Green,128,3.6,189,15,1519,2199,2750.0,2.8,,0.8,Fair,0-20k,Small
+923,Nokia,Nokia 2660 DS 4G Flip,Mystic Green,128,4.0,1803,124,4999,5898,1450.0,2.8,,0.3,Good,0-20k,Small
+924,ANGAGE,ANGAGE SAGA,Mystic Green,128,3.9,619,61,979,1799,3000.0,2.4,,0.3,Fair,0-20k,Small
+925,itel,itel P40 ,Luxurious Gold,32,4.0,48,5,6799,8299,6000.0,6.6,,13.0,Good,0-20k,Very Large
+926,SAMSUNG,SAMSUNG Galaxy F23 5G ,Aqua Blue,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+927,SAMSUNG,SAMSUNG Galaxy F23 5G ,Forest Green,128,4.2,45639,3466,14999,22999,3600.0,6.6,QualcommSnapdragon750G,50.0,Good,0-20k,Very Large
+928,KARBONN,KARBONN KX3S,Mystic Green,128,3.7,104,7,1070,1190,1000.0,1.8,NA,0.0,Fair,0-20k,Small
+929,Kechaoda,Kechaoda K115,Mystic Green,128,4.1,31614,2350,899,14999,850.0,1.44,,0.3,Good,0-20k,Small
+930,SAMSUNG,SAMSUNG Galaxy F34 5G ,Mystic Green,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+931,SAMSUNG,SAMSUNG Galaxy F34 5G ,Electric Black,128,4.1,253,24,20999,25999,3600.0,6.5,Exynos1280,50.0,Good,20k-40k,Large
+932,vivo,vivo Y22 ,Starlit Blue,128,4.3,1663,95,14499,18999,3600.0,6.55,MediatekHelioG70,50.0,Good,0-20k,Large
+933,SAMSUNG,SAMSUNG Galaxy A34 5G ,Awesome Graphite,256,4.2,1763,155,32999,39499,3600.0,6.6,"BatteryDimensity1080,OctaCore",48.0,Good,20k-40k,Very Large
+934,vivo,vivo Y22 ,Metaverse Green,64,4.3,1663,95,14499,17990,3600.0,6.55,MediatekHelioG70,50.0,Good,0-20k,Large
+935,Tecno,Tecno Camon 19 Pro ,Mondrian,128,4.0,112,12,15999,24999,5000.0,6.8,MediatekMT6781HelioG96,64.0,Good,0-20k,Very Large
+936,Cellecor,Cellecor E5,Mystic Green,128,3.5,31,3,1319,1349,2750.0,1.8,,0.8,Fair,0-20k,Small
+937,Cellecor,Cellecor X50+,Mystic Green,128,3.6,189,15,1512,2199,2750.0,2.8,,0.8,Fair,0-20k,Small
+938,Infinix,Infinix Smart 6 ,Starry Purple,64,4.3,33059,2216,6999,8999,3600.0,6.6,MediatekHelioA22,8.0,Good,0-20k,Very Large
+939,REDMI,REDMI A1+ ,Light Blue,32,4.1,10706,513,6599,10999,3600.0,6.52,MediatekHelioA22,8.0,Good,0-20k,Large
+940,Micromax,Micromax S 211,Mystic Green,128,3.9,89,6,1210,1799,1000.0,2.4,,0.3,Fair,0-20k,Small
+941,KARBONN,KARBONN K31 Star,Mystic Green,128,3.8,204,16,1199,1790,1800.0,2.4,,0.03,Fair,0-20k,Small
+942,MOTOROLA,MOTOROLA G42 ,Metallic Rose,64,4.2,10298,1058,10949,16999,5000.0,6.47,QualcommSnapdragon680,50.0,Good,0-20k,Large
+943,Nokia,Nokia 110 TA-1302 DS,Mystic Green,128,4.0,25627,1999,1935,2004,800.0,1.77,,1.0,Good,0-20k,Small
+944,Micromax,Micromax S 211,Mystic Green,128,3.9,89,6,1299,1799,1000.0,2.4,,0.3,Fair,0-20k,Small
+945,Vox,"Vox King Talking, Contact icon and Auto Call Recording",Mystic Green,128,3.1,699,57,899,14999,2500.0,2.4,,0.3,Bad,0-20k,Small
+946,REDMI,REDMI 10 Prime 2022 ,Astral White,64,4.2,3836,247,11450,14999,6000.0,6.5,,50.0,Good,0-20k,Large
+947,APPLE,APPLE iPhone 11 ,Black,128,4.6,199419,11368,44999,48900,3600.0,6.1,,12.0,Excellent,40k-60k,Average
+948,Redmi,Redmi 9A Sport ,Carbon Black,32,4.1,26709,1938,7181,7999,5000.0,6.53,,13.0,Good,0-20k,Large
+949,Kechaoda,Kechaoda K33,Mystic Green,128,4.0,9018,582,1110,1442,800.0,1.4,,0.3,Good,0-20k,Small
+950,GFive,GFive Rose,Mystic Green,128,3.6,107,9,999,1499,3000.0,2.4,,0.3,Fair,0-20k,Small
+951,Cellecor,Cellecor R1,Mystic Green,128,3.6,108,5,1034,1449,1000.0,1.8,,0.8,Fair,0-20k,Small
+952,Energizer,Energizer M1,Mystic Green,128,3.6,871,61,749,1099,600.0,1.77,,0.08,Fair,0-20k,Small
+953,Nokia,Nokia 110 TA-1302 DS,Mystic Green,128,4.0,25627,1999,1645,14999,800.0,1.77,,1.0,Good,0-20k,Small
+954,GFive,GFive C3 Card,Mystic Green,128,3.7,622,37,999,1999,800.0,1.8,,0.3,Fair,0-20k,Small
+955,SAMSUNG,SAMSUNG Galaxy A14 5G ,Black,64,4.1,1913,132,15999,18499,3600.0,6.6,SECS5E8535(Exynos1330),50.0,Good,0-20k,Very Large
+956,IQOO,IQOO Neo 7 5G ,Frost Blue,128,4.4,880,87,29990,34999,5000.0,6.78,,64.0,Good,20k-40k,Very Large
+957,Nokia,Nokia TA-1304/105 SS,Mystic Green,128,4.2,64002,4966,1550,14999,800.0,1.77,,50.0,Good,0-20k,Small
+958,vivo,vivo Y22 ,Starlit Blue,64,4.3,1663,95,13999,17990,3600.0,6.55,MediatekHelioG70,50.0,Good,0-20k,Large
+959,KARBONN,KARBONN KX3S,Mystic Green,128,3.7,104,7,1070,1190,1000.0,1.8,NA,0.0,Fair,0-20k,Small
+960,MOTOROLA,MOTOROLA e40 ,Pink Clay,64,4.1,85570,7718,8999,10999,5000.0,6.5,UNISOCT700,48.0,Good,0-20k,Large
+961,Good,Good One G5605N,Mystic Green,128,3.9,1491,267,999,1999,2500.0,1.8,,2.0,Fair,0-20k,Small
+962,Good,Good One G5605N,Mystic Green,128,3.9,1491,267,999,1999,2500.0,1.8,,2.0,Fair,0-20k,Small
+963,KARBONN,KARBONN KU3+,Mystic Green,128,4.2,4047,295,999,1340,1000.0,2.4,,0.3,Good,0-20k,Small
+964,Tecno,Tecno Pop 7 pro ,?Uyuni Blue,64,4.2,102,2,7999,8999,5000.0,6.56,,12.0,Good,0-20k,Large
+965,Nokia,Nokia C32 ,Charcoal,128,3.8,209,25,9999,10499,5000.0,6.52,,50.0,Fair,0-20k,Large
+966,OnePlus,OnePlus Nord CE3 5G ,Grey Shimmer,256,4.2,4047,295,28990,28999,5000.0,6.7,,50.0,Good,20k-40k,Very Large
+967,OnePlus,OnePlus Nord CE3 5G ,Aqua Surge,256,4.2,4047,295,28799,28999,5000.0,6.7,,50.0,Good,20k-40k,Very Large
+968,OnePlus,OnePlus Nord CE3 5G ,Aqua Surge,128,4.9,24,1,26935,26999,5000.0,6.7,,50.0,Excellent,20k-40k,Very Large
+969,OnePlus,OnePlus Nord CE3 5G ,Grey Shimmer,128,4.9,24,1,26729,26999,5000.0,6.7,,50.0,Excellent,20k-40k,Very Large
+970,SAMSUNG,SAMSUNG GALAXY M13 ,Stardust Brown,64,4.2,4047,241,10780,14999,6000.0,6.6,,50.0,Good,0-20k,Very Large
+971,I,I Kall K3310,Mystic Green,128,3.6,63914,7364,749,999,1000.0,1.77,,0.3,Fair,0-20k,Small
+972,KARBONN,KARBONN KX3S,Mystic Green,128,3.7,104,7,1070,1190,1000.0,1.8,NA,0.0,Fair,0-20k,Small
+973,Geotel,Geotel K9 Flip,Mystic Green,128,3.9,814,48,1625,2199,1200.0,1.7,,0.3,Fair,0-20k,Small
+974,Geotel,Geotel K9 Flip,Mystic Green,128,3.9,814,48,1599,2199,1200.0,1.7,,0.3,Fair,0-20k,Small
+975,Micromax,Micromax X415,Mystic Green,128,3.8,1018,80,980,1150,1000.0,1.77,,0.03,Fair,0-20k,Small
+976,Snexian,Snexian ROCK R7,Mystic Green,128,3.7,640,56,999,1499,1000.0,1.8,,0.3,Fair,0-20k,Small
+977,realme,realme C30s ,Stripe Blue,32,4.4,6519,231,6999,9999,3600.0,6.5,UnisocSC9863A/UnisocSC9863A1,8.0,Good,0-20k,Large
+978,Snexian,Snexian ROCK R7,Mystic Green,128,3.7,640,56,999,1999,1000.0,1.8,,0.3,Fair,0-20k,Small
+979,Redmi,Redmi 9A Sport ,Carbon Black,32,4.1,26709,1938,7181,7999,5000.0,6.53,,13.0,Good,0-20k,Large
+980,itel,itel Ace2 lite Keypad Mobile| 1000 mAh Battery|Expandable Storage 32GB,Mystic Green,128,3.8,16,0,915,1199,1000.0,1.8,,50.0,Fair,0-20k,Small
+981,MTR,MTR S1000,Mystic Green,128,3.6,40,1,1100,1999,3000.0,2.4,,0.3,Fair,0-20k,Small
+982,REDMI,REDMI Note 11 SE ,Cosmic White,64,4.3,47437,2875,13490,16999,3600.0,6.43,MediatekHelioG95OctaCore,64.0,Good,0-20k,Large
+983,realme,realme C30s ,Stripe - Black,32,4.4,6519,231,7189,9999,5000.0,6.5,UnisocSC9863A/UnisocSC9863A1,8.0,Good,0-20k,Large
